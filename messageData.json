@@ -82,7 +82,7 @@
         },
         {
             "start-date": "2022-10-14 00:00:00",
-            "expiration-date": "",
+            "expiration-date": "2022-10-14",
             "title": "Fine Tune App Notifications",
             "message": "Getting too many (or not enough) notifications? Activate (or deactivate) any of them from the [Settings] tile on the main side menu!",
             "priority": 4,
