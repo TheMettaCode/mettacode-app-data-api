@@ -5,7 +5,7 @@
     "notifications": [
         {
             "start-date": "2022-10-14 00:00:00",
-            "expiration-date": "2022-10-14",
+            "expiration-date": "",
             "title": "Just a Hello World",
             "message": "Since you ARE MettaCode. Just sending a test",
             "priority": 10,
@@ -29,7 +29,7 @@
         },
         {
             "start-date": "2022-10-14 00:00:00",
-            "expiration-date": "2022-12-31",
+            "expiration-date": "",
             "title": "Ready For Premium?",
             "message": "If you're not yet ready to upgrade and haven't used your one-time free trial, our Free Premium Days promotion will soon be here where you can try out all app features!",
             "priority": 3,
@@ -42,7 +42,7 @@
         },
         {
             "start-date": "2022-10-14 00:00:00",
-            "expiration-date": "2022-12-31",
+            "expiration-date": "",
             "title": "Follow The Market",
             "message": "Keep track of what stocks and commodities congressional members are trading! Premium members receive trade disclosure information and alerts. Consider upgrading today!",
             "priority": 1,
@@ -55,7 +55,7 @@
         },
         {
             "start-date": "2022-10-14 00:00:00",
-            "expiration-date": "2022-12-31",
+            "expiration-date": "",
             "title": "Shop Cool Merch",
             "message": "Trade in your credits and shop for cool non-partisan products in the merch shop.",
             "priority": 7,
@@ -69,7 +69,7 @@
         },
         {
             "start-date": "2022-10-14 00:00:00",
-            "expiration-date": "2022-12-31",
+            "expiration-date": "",
             "title": "Earn App Credits",
             "message": "Get permanent credits when you share US Congress App with friends & colleagues, rate the app, or purchase them directly when prompted.",
             "priority": 9,
