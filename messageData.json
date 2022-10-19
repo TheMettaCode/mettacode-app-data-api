@@ -1,6 +1,7 @@
 {
     "app": "us-congress",
     "updated": "2022-10-17",
+    "status":"OK",
     "notifications": [
         {
             "start-date": "2022-10-14 00:00:00",
