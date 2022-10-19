@@ -12,6 +12,7 @@
             "user-levels": [
                 "developer"
             ],
+            "url":"https://mettacode.dev",
             "additional-data": "test"
         },
         {
@@ -23,6 +24,7 @@
             "user-levels": [
                 "developer"
             ],
+            "url":"",
             "additional-data": "test"
         },
         {
@@ -36,6 +38,7 @@
                 "legacy",
                 "free"
             ],
+            "url":"https://www.gofundme.com/f/help-with-iphone-development-of-us-congress-app?qid=933b0db95ef6ae2bcb762d9e53bad452",
             "additional-data": "gofundme"
         },
         {
@@ -49,6 +52,7 @@
                 "legacy",
                 "free"
             ],
+            "url":"",
             "additional-data": "upgrade"
         },
         {
@@ -62,6 +66,7 @@
                 "legacy",
                 "free"
             ],
+            "url":"",
             "additional-data": "market"
         },
         {
@@ -76,6 +81,7 @@
                 "legacy",
                 "free"
             ],
+            "url":"",
             "additional-data": "shop"
         },
         {
@@ -90,6 +96,7 @@
                 "legacy",
                 "free"
             ],
+            "url":"",
             "additional-data": "credits"
         },
         {
@@ -104,6 +111,7 @@
                 "legacy",
                 "free"
             ],
+            "url":"",
             "additional-data": "notifications"
         }
     ]
