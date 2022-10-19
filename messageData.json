@@ -1,6 +1,6 @@
 {
     "app": "us-congress",
-    "updated": "2022-10-17",
+    "updated": "2022-10-18",
     "status":"OK",
     "notifications": [
         {
@@ -12,7 +12,18 @@
             "user-levels": [
                 "developer"
             ],
-            "additional-data": ""
+            "additional-data": "test"
+        },
+        {
+            "start-date": "2022-10-18 00:00:00",
+            "expiration-date": "2022-10-30 00:00:00",
+            "title": "Just A Test",
+            "message": "just a test for start date sorting",
+            "priority": 8,
+            "user-levels": [
+                "developer"
+            ],
+            "additional-data": "test"
         },
         {
             "start-date": "2022-10-14 00:00:00",
