@@ -1,6 +1,6 @@
 {
     "app": "us-congress",
-    "updated": "2022-10-19",
+    "updated": "2022-10-21",
     "status":"OK",
     "notifications": [
         {
@@ -43,7 +43,7 @@
         },
         {
             "start-date": "2022-10-14 00:00:00",
-            "expiration-date": "",
+            "expiration-date": "2022-10-19 00:00:00",
             "title": "Ready For Premium?",
             "message": "If you're not yet ready to upgrade and haven't used your one-time free trial, our Free Premium Days promotion will soon be here where you can try out all app features!",
             "priority": 3,
@@ -59,7 +59,7 @@
             "start-date": "2022-10-14 00:00:00",
             "expiration-date": "",
             "title": "Follow The Market",
-            "message": "Keep track of what stocks and commodities congressional members are trading! Premium members receive trade disclosure information and alerts. Consider upgrading today!",
+            "message": "Keep track of congressional members' stock trades! Premium members receive trade disclosure information and alerts. Consider upgrading today!",
             "priority": 1,
             "user-levels": [
                 "developer",
@@ -97,7 +97,7 @@
                 "free"
             ],
             "url":"",
-            "additional-data": "credits"
+            "additional-data": "share"
         },
         {
             "start-date": "2022-10-14 00:00:00",
