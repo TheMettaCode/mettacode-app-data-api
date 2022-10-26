@@ -13,6 +13,7 @@
                 "developer"
             ],
             "url":"https://mettacode.dev",
+            "icon": "developer-board",
             "additional-data": "test"
         },
         {
@@ -25,7 +26,24 @@
                 "developer"
             ],
             "url":"",
+            "icon": "developer-board",
             "additional-data": "test"
+        },
+        {
+            "start-date": "2022-10-26 00:00:00",
+            "expiration-date": "",
+            "title": "Developer Support Options",
+            "message": "Developer support options can be found on our humble website",
+            "priority": 5,
+            "user-levels": [
+                "developer",
+                "premium",
+                "legacy",
+                "free"
+            ],
+            "url":"https://mettacode.dev",
+            "icon": "volunteer-activism",
+            "additional-data": "support"
         },
         {
             "start-date": "2022-10-14 00:00:00",
@@ -39,7 +57,8 @@
                 "legacy",
                 "free"
             ],
-            "url":"https://www.gofundme.com/f/help-with-iphone-development-of-us-congress-app?qid=933b0db95ef6ae2bcb762d9e53bad452",
+            "url":"https://gofund.me/4e761be9",
+            "icon": "campaign",
             "additional-data": "gofundme"
         },
         {
@@ -54,6 +73,7 @@
                 "free"
             ],
             "url":"",
+            "icon": "workspace-premium",
             "additional-data": "upgrade"
         },
         {
@@ -68,7 +88,24 @@
                 "free"
             ],
             "url":"",
+            "icon": "trending-up",
             "additional-data": "market"
+        },
+        {
+            "start-date": "2022-10-14 00:00:00",
+            "expiration-date": "",
+            "title": "Get App Credits",
+            "message": "Use app credits to buy cool, non-partisan in-app merchandise.",
+            "priority": 7,
+            "user-levels": [
+                "developer",
+                "premium",
+                "legacy",
+                "free"
+            ],
+            "url":"",
+            "icon": "credit-card",
+            "additional-data": "credits"
         },
         {
             "start-date": "2022-10-14 00:00:00",
@@ -83,13 +120,14 @@
                 "free"
             ],
             "url":"",
+            "icon": "store",
             "additional-data": "shop"
         },
         {
             "start-date": "2022-10-14 00:00:00",
             "expiration-date": "",
-            "title": "Earn App Credits",
-            "message": "Get permanent credits when you share US Congress App with friends & colleagues, rate the app, or purchase them directly.",
+            "title": "Enjoying The App?",
+            "message": "Let us know how we're doing, and if there is something we can improve on.",
             "priority": 9,
             "user-levels": [
                 "developer",
@@ -98,6 +136,23 @@
                 "free"
             ],
             "url":"",
+            "icon": "star",
+            "additional-data": "rating"
+        },
+        {
+            "start-date": "2022-10-14 00:00:00",
+            "expiration-date": "",
+            "title": "Share The App",
+            "message": "Get permanent credits when you share US Congress App with friends, family & colleagues.",
+            "priority": 9,
+            "user-levels": [
+                "developer",
+                "premium",
+                "legacy",
+                "free"
+            ],
+            "url":"",
+            "icon": "handshake",
             "additional-data": "share"
         },
         {
@@ -113,6 +168,7 @@
                 "free"
             ],
             "url":"",
+            "icon": "notifications",
             "additional-data": "notifications"
         }
     ]
