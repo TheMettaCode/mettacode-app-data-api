@@ -128,7 +128,7 @@
             ],
             "url":"",
             "icon": "store",
-            "support-option": true,
+            "support-option": false,
             "additional-data": "shop"
         },
         {
