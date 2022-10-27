@@ -14,6 +14,7 @@
             ],
             "url":"https://mettacode.dev",
             "icon": "developer-board",
+            "support-option": false,
             "additional-data": "test"
         },
         {
@@ -27,6 +28,7 @@
             ],
             "url":"https://mettacode.dev",
             "icon": "developer-board",
+            "support-option": false,
             "additional-data": "test"
         },
         {
@@ -43,6 +45,7 @@
             ],
             "url":"https://mettacode.dev",
             "icon": "volunteer-activism",
+            "support-option": true,
             "additional-data": "support"
         },
         {
@@ -59,6 +62,7 @@
             ],
             "url":"https://gofund.me/4e761be9",
             "icon": "campaign",
+            "support-option": true,
             "additional-data": "gofundme"
         },
         {
@@ -74,6 +78,7 @@
             ],
             "url":"",
             "icon": "workspace-premium",
+            "support-option": false,
             "additional-data": "upgrade"
         },
         {
@@ -89,6 +94,7 @@
             ],
             "url":"",
             "icon": "trending-up",
+            "support-option": false,
             "additional-data": "market"
         },
         {
@@ -105,6 +111,7 @@
             ],
             "url":"",
             "icon": "credit-card",
+            "support-option": true,
             "additional-data": "credits"
         },
         {
@@ -121,6 +128,7 @@
             ],
             "url":"",
             "icon": "store",
+            "support-option": true,
             "additional-data": "shop"
         },
         {
@@ -135,8 +143,9 @@
                 "legacy",
                 "free"
             ],
-            "url":"",
+            "url":"https://play.google.com/store/apps/details?id=com.uscongress.watch",
             "icon": "star",
+            "support-option": false,
             "additional-data": "rating"
         },
         {
@@ -153,6 +162,7 @@
             ],
             "url":"",
             "icon": "handshake",
+            "support-option": true,
             "additional-data": "share"
         },
         {
@@ -169,6 +179,7 @@
             ],
             "url":"",
             "icon": "notifications",
+            "support-option": false,
             "additional-data": "notifications"
         }
     ]
