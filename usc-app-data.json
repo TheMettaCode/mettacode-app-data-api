@@ -5,6 +5,18 @@
         {
             "start-date": "2022-10-27 00:00:00",
             "expiration-date": "",
+            "title": "2022-10-28",
+            "message": "Change the title of this element to trigger in-app update",
+            "priority": 0,
+            "user-levels": [],
+            "url":"",
+            "icon": "",
+            "support-option": false,
+            "additional-data": ""
+        },
+        {
+            "start-date": "2022-10-27 00:00:00",
+            "expiration-date": "",
             "title": "Just a Hello World",
             "message": "Since you ARE MettaCode. Just sending a test",
             "priority": 10,
@@ -21,7 +33,7 @@
             "expiration-date": "2022-10-30 00:00:00",
             "title": "Just A Test",
             "message": "just a test for start date sorting",
-            "priority": 8,
+            "priority": 10,
             "user-levels": [
                 "developer"
             ],
@@ -35,7 +47,7 @@
             "expiration-date": "",
             "title": "Developer Support Options",
             "message": "Developer support options can be found on our humble website",
-            "priority": 5,
+            "priority": 9,
             "user-levels": [
                 "developer",
                 "premium",
@@ -52,7 +64,7 @@
             "expiration-date": "2022-12-31",
             "title": "iOS GoFundMe",
             "message": "Help with funding for development of an iOS version of US Congress app. Click here or contact us for details",
-            "priority": 5,
+            "priority": 8,
             "user-levels": [
                 "developer",
                 "premium",
@@ -69,7 +81,7 @@
             "expiration-date": "2022-10-19 00:00:00",
             "title": "Ready For Premium?",
             "message": "Our Free Premium Days promotion run the first week of every month where you can try out all app features!",
-            "priority": 3,
+            "priority": 5,
             "user-levels": [
                 "developer",
                 "legacy",
@@ -85,7 +97,7 @@
             "expiration-date": "",
             "title": "Follow The Market",
             "message": "Keep track of congressional members' stock trade disclosures, trade information and alerts. Consider upgrading today!",
-            "priority": 1,
+            "priority": 5,
             "user-levels": [
                 "developer",
                 "legacy",
@@ -101,7 +113,7 @@
             "expiration-date": "",
             "title": "Get App Credits",
             "message": "Use app credits to buy cool, non-partisan in-app merchandise.",
-            "priority": 7,
+            "priority": 4,
             "user-levels": [
                 "developer",
                 "premium",
@@ -118,7 +130,7 @@
             "expiration-date": "",
             "title": "Shop Cool Merch",
             "message": "Trade in your credits and shop for cool non-partisan products in the merch shop.",
-            "priority": 7,
+            "priority": 4,
             "user-levels": [
                 "developer",
                 "premium",
@@ -135,7 +147,7 @@
             "expiration-date": "",
             "title": "Enjoying The App?",
             "message": "Let us know how we're doing, and if there is something we can improve on.",
-            "priority": 9,
+            "priority": 4,
             "user-levels": [
                 "developer",
                 "premium",
@@ -152,7 +164,7 @@
             "expiration-date": "",
             "title": "Share The App",
             "message": "Get permanent credits when you share US Congress App with friends, family & colleagues.",
-            "priority": 9,
+            "priority": 3,
             "user-levels": [
                 "developer",
                 "premium",
@@ -169,7 +181,7 @@
             "expiration-date": "",
             "title": "Fine Tune App Notifications",
             "message": "Getting too many (or not enough) notifications? Update them from the [Settings] tile on the main side menu!",
-            "priority": 4,
+            "priority": 6,
             "user-levels": [
                 "developer",
                 "premium",
