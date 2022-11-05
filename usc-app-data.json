@@ -1,14 +1,12 @@
 {
     "app": "us-congress",
-    "congress": 117,
     "status": "OK",
-    "updated": "2022-11-04",
     "notifications": [
         {
             "start-date": "2022-10-27 00:00:00",
             "expiration-date": "",
             "title": "Element messages updated",
-            "message": "Change the title of this element to trigger in-app update",
+            "message": "Change the title of this element to force in-app update",
             "priority": 0,
             "user-levels": [],
             "url": "",
