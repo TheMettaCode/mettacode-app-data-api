@@ -1,6 +1,7 @@
 {
     "app": "us-congress",
-    "status":"OK",
+    "congress": 117,
+    "status": "OK",
     "notifications": [
         {
             "start-date": "2022-10-27 00:00:00",
@@ -9,7 +10,7 @@
             "message": "Change the title of this element to trigger in-app update",
             "priority": 0,
             "user-levels": [],
-            "url":"",
+            "url": "",
             "icon": "",
             "support-option": false,
             "additional-data": ""
@@ -23,7 +24,7 @@
             "user-levels": [
                 "developer"
             ],
-            "url":"https://mettacode.dev",
+            "url": "https://mettacode.dev",
             "icon": "developer-board",
             "support-option": false,
             "additional-data": "test"
@@ -37,7 +38,7 @@
             "user-levels": [
                 "developer"
             ],
-            "url":"https://mettacode.dev",
+            "url": "https://mettacode.dev",
             "icon": "developer-board",
             "support-option": false,
             "additional-data": "test"
@@ -54,7 +55,7 @@
                 "legacy",
                 "free"
             ],
-            "url":"https://mettacode.dev",
+            "url": "https://mettacode.dev",
             "icon": "volunteer-activism",
             "support-option": true,
             "additional-data": "support"
@@ -71,7 +72,7 @@
                 "legacy",
                 "free"
             ],
-            "url":"https://gofund.me/4e761be9",
+            "url": "https://gofund.me/4e761be9",
             "icon": "campaign",
             "support-option": true,
             "additional-data": "gofundme"
@@ -87,7 +88,7 @@
                 "legacy",
                 "free"
             ],
-            "url":"",
+            "url": "",
             "icon": "workspace-premium",
             "support-option": false,
             "additional-data": "upgrade"
@@ -103,7 +104,7 @@
                 "legacy",
                 "free"
             ],
-            "url":"",
+            "url": "",
             "icon": "trending-up",
             "support-option": false,
             "additional-data": "market"
@@ -120,7 +121,7 @@
                 "legacy",
                 "free"
             ],
-            "url":"",
+            "url": "",
             "icon": "coins",
             "support-option": true,
             "additional-data": "credits"
@@ -137,7 +138,7 @@
                 "legacy",
                 "free"
             ],
-            "url":"",
+            "url": "",
             "icon": "store",
             "support-option": false,
             "additional-data": "shop"
@@ -154,7 +155,7 @@
                 "legacy",
                 "free"
             ],
-            "url":"https://play.google.com/store/apps/details?id=com.uscongress.watch",
+            "url": "https://play.google.com/store/apps/details?id=com.uscongress.watch",
             "icon": "star",
             "support-option": true,
             "additional-data": "rating"
@@ -171,7 +172,7 @@
                 "legacy",
                 "free"
             ],
-            "url":"",
+            "url": "",
             "icon": "handshake",
             "support-option": true,
             "additional-data": "share"
@@ -188,7 +189,7 @@
                 "legacy",
                 "free"
             ],
-            "url":"",
+            "url": "",
             "icon": "notifications",
             "support-option": false,
             "additional-data": "notifications"
@@ -225,7 +226,8 @@
         "commercial",
         "commodities",
         "corruption",
-        "coupon","crime",
+        "coupon",
+        "crime",
         "Crypto",
         "Cryptocurrency",
         "Cyber Security",
@@ -319,7 +321,8 @@
         "power",
         "Palestine",
         "Pelosi",
-        "pharmaceutical","police",
+        "pharmaceutical",
+        "police",
         "poor",
         "President",
         "Press Secretary",
