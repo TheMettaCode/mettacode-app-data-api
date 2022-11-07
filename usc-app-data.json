@@ -29,18 +29,21 @@
             "additional-data": "test"
         },
         {
-            "start-date": "2022-10-26 00:00:00",
-            "expiration-date": "2022-10-30 00:00:00",
-            "title": "Just A Test",
-            "message": "just a test for start date sorting",
-            "priority": 10,
+            "start-date": "2022-11-06 00:00:00",
+            "expiration-date": "2022-11-08 00:00:00",
+            "title": "Make your vote count",
+            "message": "Make sure to have your voice count! Vote the Midterms!",
+            "priority": 1,
             "user-levels": [
-                "developer"
+                "developer",
+                "premium",
+                "legacy",
+                "free"
             ],
-            "url": "https://mettacode.dev",
-            "icon": "developer-board",
-            "support-option": false,
-            "additional-data": "test"
+            "url": "",
+            "icon": "campaign",
+            "support-option": true,
+            "additional-data": "vote"
         },
         {
             "start-date": "2022-10-26 00:00:00",
