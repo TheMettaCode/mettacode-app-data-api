@@ -5,18 +5,6 @@
         {
             "start-date": "2022-10-27 00:00:00",
             "expiration-date": "",
-            "title": "Element messages updated",
-            "message": "Change this title element to force in-app update",
-            "priority": 0,
-            "user-levels": [],
-            "url": "",
-            "icon": "",
-            "support-option": false,
-            "additional-data": ""
-        },
-        {
-            "start-date": "2022-10-27 00:00:00",
-            "expiration-date": "",
             "title": "Just a Hello World",
             "message": "Since you ARE MettaCode. Just sending a test",
             "priority": 10,
