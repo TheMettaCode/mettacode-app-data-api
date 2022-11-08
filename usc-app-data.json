@@ -30,7 +30,7 @@
             ],
             "url": "",
             "icon": "campaign",
-            "support-option": true,
+            "support-option": false,
             "additional-data": "vote"
         },
         {
