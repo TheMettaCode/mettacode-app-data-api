@@ -52,7 +52,7 @@
         },
         {
             "start-date": "2022-10-14 00:00:00",
-            "expiration-date": "2022-12-31",
+            "expiration-date": "",
             "title": "iOS GoFundMe",
             "message": "Help with funding for development of an iOS version of US Congress app. Tap here or contact us for details",
             "priority": 8,
