@@ -17,21 +17,20 @@
             "additional-data": "test"
         },
         {
-            "start-date": "2022-11-06 00:00:00",
-            "expiration-date": "2022-11-08 00:00:00",
-            "title": "Make your vote count",
-            "message": "Make sure to have your voice count! Vote the Midterms!",
-            "priority": 1,
+            "start-date": "2022-11-10 00:00:00",
+            "expiration-date": "",
+            "title": "More Points, More Privilege",
+            "message": "The more you use the app, the fewer ads you will see!\nMore points, more privilege",
+            "priority": 3,
             "user-levels": [
                 "developer",
-                "premium",
                 "legacy",
                 "free"
             ],
             "url": "",
-            "icon": "campaign",
+            "icon": "",
             "support-option": false,
-            "additional-data": "vote"
+            "additional-data": "usage"
         },
         {
             "start-date": "2022-10-26 00:00:00",
@@ -183,6 +182,23 @@
             "icon": "notifications",
             "support-option": false,
             "additional-data": "notifications"
+        },
+        {
+            "start-date": "2022-11-06 00:00:00",
+            "expiration-date": "2022-11-08 00:00:00",
+            "title": "Make your vote count",
+            "message": "Make sure to have your voice count! Vote the Midterms!",
+            "priority": 1,
+            "user-levels": [
+                "developer",
+                "premium",
+                "legacy",
+                "free"
+            ],
+            "url": "",
+            "icon": "campaign",
+            "support-option": false,
+            "additional-data": "vote"
         }
     ]
 }
