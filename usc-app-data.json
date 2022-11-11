@@ -3,18 +3,38 @@
     "status": "OK",
     "notifications": [
         {
-            "start-date": "2022-10-27 00:00:00",
-            "expiration-date": "",
-            "title": "Hello World",
-            "message": "Since you ARE MettaCode. Just sending a test",
-            "priority": 10,
+            "start-date": "2022-11-06 00:00:00",
+            "expiration-date": "2022-11-08 00:00:00",
+            "title": "Make your vote count",
+            "message": "Make sure to have your voice count! Vote the Midterms!",
+            "priority": 1,
             "user-levels": [
-                "developer"
+                "developer",
+                "premium",
+                "legacy",
+                "free"
             ],
-            "url": "https://mettacode.dev",
-            "icon": "developer-board",
+            "url": "",
+            "icon": "campaign",
             "support-option": false,
-            "additional-data": "test"
+            "additional-data": "vote"
+        },
+        {
+            "start-date": "2022-10-14 00:00:00",
+            "expiration-date": "",
+            "title": "Share The App",
+            "message": "Get permanent credits when you share US Congress App with friends, family & colleagues.",
+            "priority": 3,
+            "user-levels": [
+                "developer",
+                "premium",
+                "legacy",
+                "free"
+            ],
+            "url": "",
+            "icon": "handshake",
+            "support-option": true,
+            "additional-data": "share"
         },
         {
             "start-date": "2022-11-10 00:00:00",
@@ -31,72 +51,6 @@
             "icon": "",
             "support-option": false,
             "additional-data": "usage"
-        },
-        {
-            "start-date": "2022-10-26 00:00:00",
-            "expiration-date": "",
-            "title": "Developer Support Options",
-            "message": "Developer support options can be found on our humble website.\nTap here to view!",
-            "priority": 9,
-            "user-levels": [
-                "developer",
-                "premium",
-                "legacy",
-                "free"
-            ],
-            "url": "https://mettacode.dev",
-            "icon": "volunteer-activism",
-            "support-option": true,
-            "additional-data": "support"
-        },
-        {
-            "start-date": "2022-10-14 00:00:00",
-            "expiration-date": "",
-            "title": "iOS GoFundMe",
-            "message": "Help with funding for development of our iOS version of US Congress app.\nTap here or contact us for details",
-            "priority": 8,
-            "user-levels": [
-                "developer",
-                "premium",
-                "legacy",
-                "free"
-            ],
-            "url": "https://gofund.me/4e761be9",
-            "icon": "campaign",
-            "support-option": true,
-            "additional-data": "gofundme"
-        },
-        {
-            "start-date": "2022-10-14 00:00:00",
-            "expiration-date": "2022-10-19 00:00:00",
-            "title": "Ready For Premium?",
-            "message": "Our Free Premium Days promotion run the first week of every month where you can try out all app features!",
-            "priority": 5,
-            "user-levels": [
-                "developer",
-                "legacy",
-                "free"
-            ],
-            "url": "",
-            "icon": "workspace-premium",
-            "support-option": false,
-            "additional-data": "upgrade"
-        },
-        {
-            "start-date": "2022-10-14 00:00:00",
-            "expiration-date": "",
-            "title": "Follow The Market",
-            "message": "Keep track of congressional members' stock trade disclosures, trade information and alerts. Consider upgrading today!",
-            "priority": 5,
-            "user-levels": [
-                "developer",
-                "legacy",
-                "free"
-            ],
-            "url": "",
-            "icon": "trending-up",
-            "support-option": false,
-            "additional-data": "market"
         },
         {
             "start-date": "2022-10-14 00:00:00",
@@ -151,20 +105,35 @@
         },
         {
             "start-date": "2022-10-14 00:00:00",
-            "expiration-date": "",
-            "title": "Share The App",
-            "message": "Get permanent credits when you share US Congress App with friends, family & colleagues.",
-            "priority": 3,
+            "expiration-date": "2022-10-19 00:00:00",
+            "title": "Ready For Premium?",
+            "message": "Our Free Premium Days promotion run the first week of every month where you can try out all app features!",
+            "priority": 5,
             "user-levels": [
                 "developer",
-                "premium",
                 "legacy",
                 "free"
             ],
             "url": "",
-            "icon": "handshake",
-            "support-option": true,
-            "additional-data": "share"
+            "icon": "workspace-premium",
+            "support-option": false,
+            "additional-data": "upgrade"
+        },
+        {
+            "start-date": "2022-10-14 00:00:00",
+            "expiration-date": "",
+            "title": "Follow The Market",
+            "message": "Keep track of congressional members' stock trade disclosures, trade information and alerts. Consider upgrading today!",
+            "priority": 5,
+            "user-levels": [
+                "developer",
+                "legacy",
+                "free"
+            ],
+            "url": "",
+            "icon": "trending-up",
+            "support-option": false,
+            "additional-data": "market"
         },
         {
             "start-date": "2022-10-14 00:00:00",
@@ -184,21 +153,52 @@
             "additional-data": "notifications"
         },
         {
-            "start-date": "2022-11-06 00:00:00",
-            "expiration-date": "2022-11-08 00:00:00",
-            "title": "Make your vote count",
-            "message": "Make sure to have your voice count! Vote the Midterms!",
-            "priority": 1,
+            "start-date": "2022-10-14 00:00:00",
+            "expiration-date": "",
+            "title": "iOS GoFundMe",
+            "message": "Help with funding for development of our iOS version of US Congress app.\nTap here or contact us for details",
+            "priority": 8,
             "user-levels": [
                 "developer",
                 "premium",
                 "legacy",
                 "free"
             ],
-            "url": "",
+            "url": "https://gofund.me/4e761be9",
             "icon": "campaign",
+            "support-option": true,
+            "additional-data": "gofundme"
+        },
+        {
+            "start-date": "2022-10-26 00:00:00",
+            "expiration-date": "",
+            "title": "Developer Support Options",
+            "message": "Developer support options can be found on our humble website.\nTap here to view!",
+            "priority": 9,
+            "user-levels": [
+                "developer",
+                "premium",
+                "legacy",
+                "free"
+            ],
+            "url": "https://mettacode.dev",
+            "icon": "volunteer-activism",
+            "support-option": true,
+            "additional-data": "support"
+        },
+        {
+            "start-date": "2022-10-27 00:00:00",
+            "expiration-date": "",
+            "title": "Hello World",
+            "message": "Since you ARE MettaCode. Just sending a test",
+            "priority": 10,
+            "user-levels": [
+                "developer"
+            ],
+            "url": "https://mettacode.dev",
+            "icon": "developer-board",
             "support-option": false,
-            "additional-data": "vote"
+            "additional-data": "test"
         }
     ]
 }
