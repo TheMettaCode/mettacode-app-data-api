@@ -55,7 +55,7 @@
         {
             "start-date": "2022-10-14 00:00:00",
             "expiration-date": "",
-            "title": "Redeem App Credits",
+            "title": "Purchase App Credits",
             "message": "Use app credits to buy cool, non-partisan in-app merchandise.",
             "priority": 4,
             "user-levels": [
@@ -89,7 +89,7 @@
         {
             "start-date": "2022-10-14 00:00:00",
             "expiration-date": "",
-            "title": "Shop for Cool Merch",
+            "title": "Redeem Credits for Cool Merch",
             "message": "Trade in your credits and shop for cool non-partisan products in the merch shop.",
             "priority": 4,
             "user-levels": [
