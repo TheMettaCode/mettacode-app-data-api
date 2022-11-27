@@ -3,20 +3,6 @@
     "status": "OK",
     "notifications": [
         {
-            "start-date": "2022-11-15 00:00:00",
-            "expiration-date": "",
-            "title": "Test Message",
-            "message": "Developer test for recent bug fix",
-            "priority": 1,
-            "user-levels": [
-                "developer"
-            ],
-            "url": "",
-            "icon": "",
-            "support-option": false,
-            "additional-data": "test"
-        },
-        {
             "start-date": "2022-11-06 00:00:00",
             "expiration-date": "2022-11-08 00:00:00",
             "title": "Make your vote count",
@@ -71,6 +57,23 @@
             "expiration-date": "",
             "title": "Get App Credits",
             "message": "Use app credits to buy cool, non-partisan in-app merchandise.",
+            "priority": 4,
+            "user-levels": [
+                "developer",
+                "premium",
+                "legacy",
+                "free"
+            ],
+            "url": "",
+            "icon": "coins",
+            "support-option": true,
+            "additional-data": "credits"
+        },
+        {
+            "start-date": "2022-11-25 00:00:00",
+            "expiration-date": "",
+            "title": "More Activity, More Credits",
+            "message": "Only purchased credits are permanent. App usage credits decrease over time while not using the app.\nMore activity, more credits!",
             "priority": 4,
             "user-levels": [
                 "developer",
@@ -153,7 +156,7 @@
             "start-date": "2022-10-14 00:00:00",
             "expiration-date": "",
             "title": "Fine Tune App Notifications",
-            "message": "Getting too many (or not enough) notifications? Update them from the [Settings] tile on the main side menu!",
+            "message": "Adjust alerts and notifications from the [Settings] tile on the side menu!",
             "priority": 6,
             "user-levels": [
                 "developer",
