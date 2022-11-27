@@ -83,7 +83,7 @@
             ],
             "url": "",
             "icon": "coins",
-            "support-option": true,
+            "support-option": false,
             "additional-data": "credits"
         },
         {
