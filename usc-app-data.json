@@ -22,7 +22,7 @@
         {
             "start-date": "2022-10-14 00:00:00",
             "expiration-date": "",
-            "title": "Share The App",
+            "title": "Share US Congress App",
             "message": "Get permanent credits when you share US Congress App with friends, family & colleagues.",
             "priority": 3,
             "user-levels": [
@@ -39,7 +39,7 @@
         {
             "start-date": "2022-11-10 00:00:00",
             "expiration-date": "",
-            "title": "More Points, More Privilege",
+            "title": "More Points, More Privilege!",
             "message": "The more you use the app, the fewer ads you will see!\nMore points, more privilege",
             "priority": 3,
             "user-levels": [
@@ -55,7 +55,7 @@
         {
             "start-date": "2022-10-14 00:00:00",
             "expiration-date": "",
-            "title": "Get App Credits",
+            "title": "Redeem App Credits",
             "message": "Use app credits to buy cool, non-partisan in-app merchandise.",
             "priority": 4,
             "user-levels": [
@@ -89,7 +89,7 @@
         {
             "start-date": "2022-10-14 00:00:00",
             "expiration-date": "",
-            "title": "Shop Cool Merch",
+            "title": "Shop for Cool Merch",
             "message": "Trade in your credits and shop for cool non-partisan products in the merch shop.",
             "priority": 4,
             "user-levels": [
@@ -106,7 +106,7 @@
         {
             "start-date": "2022-10-14 00:00:00",
             "expiration-date": "",
-            "title": "Enjoying The App?",
+            "title": "Enjoying US Congress App?",
             "message": "Let us know how we're doing, and if there is something we can improve on. Tap here to give us a rating!",
             "priority": 4,
             "user-levels": [
@@ -123,7 +123,7 @@
         {
             "start-date": "2022-10-14 00:00:00",
             "expiration-date": "2022-10-19 00:00:00",
-            "title": "Ready For Premium?",
+            "title": "Ready For Premium Status?",
             "message": "Our Free Premium Days promotion run the first week of every month where you can try out all app features!",
             "priority": 5,
             "user-levels": [
@@ -139,7 +139,7 @@
         {
             "start-date": "2022-10-14 00:00:00",
             "expiration-date": "",
-            "title": "Follow The Market",
+            "title": "Follow Market Trade Activity",
             "message": "Keep track of congressional members' stock trade disclosures, trade information and alerts. Consider upgrading today!",
             "priority": 5,
             "user-levels": [
@@ -172,7 +172,7 @@
         {
             "start-date": "2022-10-14 00:00:00",
             "expiration-date": "",
-            "title": "iOS GoFundMe",
+            "title": "Consider our iOS GoFundMe",
             "message": "Help with funding for development of our iOS version of US Congress app.\nTap here or contact us for details",
             "priority": 8,
             "user-levels": [
