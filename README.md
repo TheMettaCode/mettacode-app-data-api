@@ -1,4 +1,4 @@
-# us-congress-app-message-api
+# US Congress App Promo Message API
 
 User message API for US Congress App
 
