@@ -73,7 +73,7 @@
             "start-date": "2022-11-25 00:00:00",
             "expiration-date": "",
             "title": "More Activity, More Credits",
-            "message": "Only purchased credits are permanent. App usage credits decrease over time while not using the app.\nMore activity, more credits!",
+            "message": "App support & purchased credits are permanent. App usage credits decrease over time while not using the app.\nMore activity, more credits!",
             "priority": 4,
             "user-levels": [
                 "developer",
