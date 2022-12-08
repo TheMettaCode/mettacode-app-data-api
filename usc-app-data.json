@@ -14,6 +14,9 @@
                 "legacy",
                 "free"
             ],
+            "market": [
+                "usa"
+            ],
             "url": "",
             "icon": "campaign",
             "support-option": false,
@@ -31,6 +34,9 @@
                 "legacy",
                 "free"
             ],
+            "market": [
+                "world"
+            ],
             "url": "",
             "icon": "handshake",
             "support-option": true,
@@ -40,12 +46,15 @@
             "start-date": "2022-11-10 00:00:00",
             "expiration-date": "",
             "title": "More Points, More Privilege!",
-            "message": "The more you use the app, the fewer ads you will see!\nMore points, more privilege",
+            "message": "The more you use the app, the fewer ads you will see!",
             "priority": 3,
             "user-levels": [
                 "developer",
                 "legacy",
                 "free"
+            ],
+            "market": [
+                "world"
             ],
             "url": "",
             "icon": "",
@@ -56,13 +65,16 @@
             "start-date": "2022-10-14 00:00:00",
             "expiration-date": "",
             "title": "Purchase App Credits",
-            "message": "Use app credits to buy cool, non-partisan in-app merchandise.",
+            "message": "Use your app credits to buy cool in-app merchandise.",
             "priority": 4,
             "user-levels": [
                 "developer",
                 "premium",
                 "legacy",
                 "free"
+            ],
+            "market": [
+                "usa"
             ],
             "url": "",
             "icon": "coins",
@@ -73,13 +85,16 @@
             "start-date": "2022-11-25 00:00:00",
             "expiration-date": "",
             "title": "More Activity, More Credits",
-            "message": "App support & purchased credits are permanent. App usage credits decrease over time while not using the app.\nMore activity, more credits!",
+            "message": "App support & purchased credits are permanent. App usage credits decrease over time while not using the app. More activity, more credits!",
             "priority": 4,
             "user-levels": [
                 "developer",
                 "premium",
                 "legacy",
                 "free"
+            ],
+            "market": [
+                "world"
             ],
             "url": "",
             "icon": "coins",
@@ -90,13 +105,16 @@
             "start-date": "2022-10-14 00:00:00",
             "expiration-date": "",
             "title": "Redeem Credits for Cool Merch",
-            "message": "Trade in your credits and shop for cool non-partisan products in the merch shop.",
+            "message": "Trade in your credits and shop for cool products in the merch shop.",
             "priority": 4,
             "user-levels": [
                 "developer",
                 "premium",
                 "legacy",
                 "free"
+            ],
+            "market": [
+                "usa"
             ],
             "url": "",
             "icon": "store",
@@ -115,6 +133,9 @@
                 "legacy",
                 "free"
             ],
+            "market": [
+                "world"
+            ],
             "url": "https://play.google.com/store/apps/details?id=com.uscongress.watch",
             "icon": "star",
             "support-option": true,
@@ -131,6 +152,9 @@
                 "legacy",
                 "free"
             ],
+            "market": [
+                "world"
+            ],
             "url": "",
             "icon": "workspace-premium",
             "support-option": false,
@@ -146,6 +170,9 @@
                 "developer",
                 "legacy",
                 "free"
+            ],
+            "market": [
+                "world"
             ],
             "url": "",
             "icon": "trending-up",
@@ -164,6 +191,9 @@
                 "legacy",
                 "free"
             ],
+            "market": [
+                "world"
+            ],
             "url": "",
             "icon": "notifications",
             "support-option": false,
@@ -171,15 +201,18 @@
         },
         {
             "start-date": "2022-10-14 00:00:00",
-            "expiration-date": "",
+            "expiration-date": "2022-12-31 23:59:59",
             "title": "Consider our iOS GoFundMe",
-            "message": "Help with funding for development of our iOS version of US Congress app.\nTap here or contact us for details",
+            "message": "Help with funding for development of our iOS version of US Congress app. Tap here or contact us for details",
             "priority": 8,
             "user-levels": [
                 "developer",
                 "premium",
                 "legacy",
                 "free"
+            ],
+            "market": [
+                "world"
             ],
             "url": "https://gofund.me/4e761be9",
             "icon": "campaign",
@@ -190,13 +223,16 @@
             "start-date": "2022-10-26 00:00:00",
             "expiration-date": "",
             "title": "Developer Support Options",
-            "message": "Developer support options can be found on our humble website.\nTap here to view!",
+            "message": "Developer support options can be found on our humble website. Tap here to view!",
             "priority": 9,
             "user-levels": [
                 "developer",
                 "premium",
                 "legacy",
                 "free"
+            ],
+            "market": [
+                "world"
             ],
             "url": "https://mettacode.dev",
             "icon": "volunteer-activism",
@@ -212,6 +248,7 @@
             "user-levels": [
                 "developer"
             ],
+            "market": [],
             "url": "https://mettacode.dev",
             "icon": "developer-board",
             "support-option": false,
