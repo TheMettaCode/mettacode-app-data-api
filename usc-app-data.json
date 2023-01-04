@@ -3,6 +3,26 @@
     "status": "OK",
     "notifications": [
         {
+            "start-date": "2023-01-01 00:00:00",
+            "expiration-date": "2023-03-01 00:00:00",
+            "title": "US CONGRESS APP IS DISCONTINUED!",
+            "message": "Tap here to download and install the new CONGRESS WATCHER APP! There should be no premium subscription interruptions. IMPORTANT!!! To save your data, install the new Congress Watcher App BEFORE uninstalling the US Congress App",
+            "priority": 1,
+            "user-levels": [
+                "developer",
+                "premium",
+                "legacy",
+                "free"
+            ],
+            "market": [
+                "world"
+            ],
+            "url": "https://play.google.com/store/apps/details?id=com.watchtower.usa",
+            "icon": "notifications",
+            "support-option": false,
+            "additional-data": "important"
+        },
+        {
             "start-date": "2022-11-06 00:00:00",
             "expiration-date": "2022-11-08 00:00:00",
             "title": "Make your vote count",
@@ -201,7 +221,7 @@
         },
         {
             "start-date": "2022-10-14 00:00:00",
-            "expiration-date": "2022-01-31 23:59:59",
+            "expiration-date": "2023-01-31 23:59:59",
             "title": "Consider our iOS GoFundMe",
             "message": "Help with funding for development of our iOS version of US Congress app. Tap here or contact us for details",
             "priority": 8,
