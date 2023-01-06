@@ -5,8 +5,8 @@
         {
             "start-date": "2023-01-01 00:00:00",
             "expiration-date": "2023-03-01 00:00:00",
-            "title": "US CONGRESS APP IS DISCONTINUED!",
-            "message": "Tap here to download and install the new CONGRESS WATCHER APP! There should be no premium subscription interruptions. IMPORTANT!!! To save your data, install the new Congress Watcher App BEFORE uninstalling the US Congress App",
+            "title": "!!! IMPORTANT MESSAGE TO US CONGRESS APP USERS !!!",
+            "message": "The US CONGRESS APP developement has been discontinued. Tap here to download and install the replacement CONGRESS WATCHER APP! There should be no premium subscription interruptions. IMPORTANT!!! To save your data, install the new Congress Watcher App BEFORE uninstalling the US Congress App",
             "priority": 1,
             "user-levels": [
                 "developer",
@@ -19,7 +19,7 @@
             ],
             "url": "https://play.google.com/store/apps/details?id=com.watchtower.usa",
             "icon": "notifications",
-            "support-option": false,
+            "support-option": true,
             "additional-data": "important"
         },
         {
