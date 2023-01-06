@@ -1,0 +1,258 @@
+{
+    "app": "congress-watcher",
+    "status": "OK",
+    "notifications": [
+        {
+            "start-date": "2022-11-06 00:00:00",
+            "expiration-date": "2022-11-08 00:00:00",
+            "title": "Make your vote count",
+            "message": "Make sure to have your voice count! Vote the Midterms!",
+            "priority": 1,
+            "user-levels": [
+                "developer",
+                "premium",
+                "legacy",
+                "free"
+            ],
+            "market": [
+                "usa"
+            ],
+            "url": "",
+            "icon": "campaign",
+            "support-option": false,
+            "additional-data": "vote"
+        },
+        {
+            "start-date": "2022-10-14 00:00:00",
+            "expiration-date": "",
+            "title": "Share Congress Watcher App",
+            "message": "Get permanent credits when you share Congress Watcher App with friends, family & colleagues.",
+            "priority": 3,
+            "user-levels": [
+                "developer",
+                "premium",
+                "legacy",
+                "free"
+            ],
+            "market": [
+                "world"
+            ],
+            "url": "",
+            "icon": "handshake",
+            "support-option": true,
+            "additional-data": "share"
+        },
+        {
+            "start-date": "2022-11-10 00:00:00",
+            "expiration-date": "",
+            "title": "More Points, More Privilege!",
+            "message": "The more you use the app, the fewer ads you will see!",
+            "priority": 3,
+            "user-levels": [
+                "developer",
+                "legacy",
+                "free"
+            ],
+            "market": [
+                "world"
+            ],
+            "url": "",
+            "icon": "",
+            "support-option": false,
+            "additional-data": "usage"
+        },
+        {
+            "start-date": "2022-10-14 00:00:00",
+            "expiration-date": "",
+            "title": "Purchase App Credits",
+            "message": "Use your app credits to buy cool in-app merchandise.",
+            "priority": 4,
+            "user-levels": [
+                "developer",
+                "premium",
+                "legacy",
+                "free"
+            ],
+            "market": [
+                "usa"
+            ],
+            "url": "",
+            "icon": "coins",
+            "support-option": true,
+            "additional-data": "credits"
+        },
+        {
+            "start-date": "2022-11-25 00:00:00",
+            "expiration-date": "",
+            "title": "More Activity, More Credits",
+            "message": "App support & purchased credits are permanent. App usage credits decrease over time while not using the app. More activity, more credits!",
+            "priority": 4,
+            "user-levels": [
+                "developer",
+                "premium",
+                "legacy",
+                "free"
+            ],
+            "market": [
+                "world"
+            ],
+            "url": "",
+            "icon": "coins",
+            "support-option": false,
+            "additional-data": "credits"
+        },
+        {
+            "start-date": "2022-10-14 00:00:00",
+            "expiration-date": "",
+            "title": "Redeem Credits for Cool Merch",
+            "message": "Trade in your credits and shop for cool products in the merch shop.",
+            "priority": 4,
+            "user-levels": [
+                "developer",
+                "premium",
+                "legacy",
+                "free"
+            ],
+            "market": [
+                "usa"
+            ],
+            "url": "",
+            "icon": "store",
+            "support-option": false,
+            "additional-data": "shop"
+        },
+        {
+            "start-date": "2022-10-14 00:00:00",
+            "expiration-date": "",
+            "title": "Enjoying Congress Watcher App?",
+            "message": "Let us know how we're doing, and if there is something we can improve on. Tap here to give us a rating!",
+            "priority": 4,
+            "user-levels": [
+                "developer",
+                "premium",
+                "legacy",
+                "free"
+            ],
+            "market": [
+                "world"
+            ],
+            "url": "https://play.google.com/store/apps/details?id=com.watchtower.usa",
+            "icon": "star",
+            "support-option": true,
+            "additional-data": "rating"
+        },
+        {
+            "start-date": "2022-10-14 00:00:00",
+            "expiration-date": "2022-10-19 00:00:00",
+            "title": "Ready For Premium Status?",
+            "message": "Our Free Premium Days promotion run the first week of every month where you can try out all app features!",
+            "priority": 5,
+            "user-levels": [
+                "developer",
+                "legacy",
+                "free"
+            ],
+            "market": [
+                "world"
+            ],
+            "url": "",
+            "icon": "workspace-premium",
+            "support-option": false,
+            "additional-data": "upgrade"
+        },
+        {
+            "start-date": "2022-10-14 00:00:00",
+            "expiration-date": "",
+            "title": "Follow Market Trade Activity",
+            "message": "Keep track of congressional members' stock trade disclosures, trade information and alerts. Consider upgrading today!",
+            "priority": 5,
+            "user-levels": [
+                "developer",
+                "legacy",
+                "free"
+            ],
+            "market": [
+                "world"
+            ],
+            "url": "",
+            "icon": "trending-up",
+            "support-option": false,
+            "additional-data": "market"
+        },
+        {
+            "start-date": "2022-10-14 00:00:00",
+            "expiration-date": "",
+            "title": "Fine Tune App Notifications",
+            "message": "Adjust alerts and notifications from the [Settings] tile on the side menu!",
+            "priority": 6,
+            "user-levels": [
+                "developer",
+                "premium",
+                "legacy",
+                "free"
+            ],
+            "market": [
+                "world"
+            ],
+            "url": "",
+            "icon": "notifications",
+            "support-option": false,
+            "additional-data": "notifications"
+        },
+        {
+            "start-date": "2022-10-14 00:00:00",
+            "expiration-date": "2023-01-01 23:59:59",
+            "title": "Consider our iOS GoFundMe",
+            "message": "Help with funding for development of our iOS version of Congress Watcher app. Tap here or contact us for details",
+            "priority": 8,
+            "user-levels": [
+                "developer",
+                "premium",
+                "legacy",
+                "free"
+            ],
+            "market": [
+                "world"
+            ],
+            "url": "https://gofund.me/4e761be9",
+            "icon": "campaign",
+            "support-option": true,
+            "additional-data": "gofundme"
+        },
+        {
+            "start-date": "2022-10-26 00:00:00",
+            "expiration-date": "",
+            "title": "Developer Support Options",
+            "message": "Developer support options can be found on our humble website. Tap here to view!",
+            "priority": 9,
+            "user-levels": [
+                "developer",
+                "premium",
+                "legacy",
+                "free"
+            ],
+            "market": [
+                "world"
+            ],
+            "url": "https://mettacode.dev",
+            "icon": "volunteer-activism",
+            "support-option": true,
+            "additional-data": "support"
+        },
+        {
+            "start-date": "2022-10-27 00:00:00",
+            "expiration-date": "",
+            "title": "Hello World",
+            "message": "Since you ARE MettaCode. Just sending a test",
+            "priority": 10,
+            "user-levels": [
+                "developer"
+            ],
+            "market": [],
+            "url": "https://mettacode.dev",
+            "icon": "developer-board",
+            "support-option": false,
+            "additional-data": "test"
+        }
+    ]
+}
