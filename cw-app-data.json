@@ -6,7 +6,7 @@
             "start-date": "2023-01-08 00:00:00",
             "expiration-date": "2023-03-01 00:00:00",
             "title": "Congress In Transition",
-            "message": "Due to the House of Representatives transition from the 117th to 118th Congress. Some portions of the app may take some time to update or begin showing data for particular members as congressional sessions begin to move forward. This is normal app operation during congressional transition periods.",
+            "message": "Due to the Congressional transition from the 117th to 118th Congress. Some portions of the app may take some time to update or begin showing data for particular members as congressional sessions begin to move forward. This is normal app operation during congressional transition periods.",
             "priority": 0,
             "user-levels": [
                 "developer",
