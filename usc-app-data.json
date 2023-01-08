@@ -4,9 +4,9 @@
     "notifications": [
         {
             "start-date": "2023-01-01 00:00:00",
-            "expiration-date": "2023-03-01 00:00:00",
+            "expiration-date": "",
             "title": "!!! IMPORTANT MESSAGE TO US CONGRESS APP USERS !!!",
-            "message": "The US CONGRESS APP developement has been discontinued. Tap here to download and install the replacement CONGRESS WATCHER APP! There should be no premium subscription interruptions. IMPORTANT!!! To save your data, install the new Congress Watcher App BEFORE uninstalling the US Congress App",
+            "message": "Due to Google Play Store policy issues, the US CONGRESS APP developement and support has been discontinued. Tap here to download and install the replacement CONGRESS WATCHER APP! IMPORTANT!!! To save your data, install the new Congress Watcher App BEFORE uninstalling the US Congress App",
             "priority": 1,
             "user-levels": [
                 "developer",
