@@ -21,7 +21,7 @@
             "icon": "",
             "support_option": false,
             "load_option": true,
-            "isAlert": true,
+            "is_alert": true,
             "additional_data": "alert"
         },
         {
@@ -43,7 +43,7 @@
             "icon": "campaign",
             "support_option": false,
             "load_option": true,
-            "isAlert": false,
+            "is_alert": false,
             "additional_data": "vote"
         },
         {
@@ -65,7 +65,7 @@
             "icon": "handshake",
             "support_option": true,
             "load_option": true,
-            "isAlert": false,
+            "is_alert": false,
             "additional_data": "share"
         },
         {
@@ -86,7 +86,7 @@
             "icon": "",
             "support_option": false,
             "load_option": true,
-            "isAlert": false,
+            "is_alert": false,
             "additional_data": "usage"
         },
         {
@@ -108,7 +108,7 @@
             "icon": "coins",
             "support_option": true,
             "load_option": true,
-            "isAlert": false,
+            "is_alert": false,
             "additional_data": "credits"
         },
         {
@@ -130,7 +130,7 @@
             "icon": "coins",
             "support_option": false,
             "load_option": true,
-            "isAlert": false,
+            "is_alert": false,
             "additional_data": "credits"
         },
         {
@@ -152,7 +152,7 @@
             "icon": "store",
             "support_option": false,
             "load_option": true,
-            "isAlert": false,
+            "is_alert": false,
             "additional_data": "shop"
         },
         {
@@ -174,7 +174,7 @@
             "icon": "star",
             "support_option": true,
             "load_option": true,
-            "isAlert": false,
+            "is_alert": false,
             "additional_data": "rating"
         },
         {
@@ -195,7 +195,7 @@
             "icon": "workspace-premium",
             "support_option": false,
             "load_option": true,
-            "isAlert": false,
+            "is_alert": false,
             "additional_data": "upgrade"
         },
         {
@@ -216,7 +216,7 @@
             "icon": "trending-up",
             "support_option": false,
             "load_option": true,
-            "isAlert": false,
+            "is_alert": false,
             "additional_data": "market"
         },
         {
@@ -238,7 +238,7 @@
             "icon": "notifications",
             "support_option": false,
             "load_option": true,
-            "isAlert": false,
+            "is_alert": false,
             "additional_data": "notifications"
         },
         {
@@ -260,7 +260,7 @@
             "icon": "campaign",
             "support_option": true,
             "load_option": true,
-            "isAlert": false,
+            "is_alert": false,
             "additional_data": "gofundme"
         },
         {
@@ -282,7 +282,7 @@
             "icon": "volunteer-activism",
             "support_option": true,
             "load_option": true,
-            "isAlert": false,
+            "is_alert": false,
             "additional_data": "support"
         },
         {
@@ -299,7 +299,7 @@
             "icon": "developer-board",
             "support_option": false,
             "load_option": true,
-            "isAlert": false,
+            "is_alert": false,
             "additional_data": "test"
         }
     ]
