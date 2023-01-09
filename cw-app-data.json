@@ -20,7 +20,8 @@
             "url": "",
             "icon": "",
             "support_option": false,
-            "load_option": true,
+            "loading_screen": true,
+            "local_notification": false,
             "is_alert": true,
             "additional_data": "alert"
         },
@@ -42,7 +43,8 @@
             "url": "",
             "icon": "campaign",
             "support_option": false,
-            "load_option": true,
+            "loading_screen": true,
+            "local_notification": true,
             "is_alert": false,
             "additional_data": "vote"
         },
@@ -64,7 +66,8 @@
             "url": "",
             "icon": "handshake",
             "support_option": true,
-            "load_option": true,
+            "loading_screen": true,
+            "local_notification": true,
             "is_alert": false,
             "additional_data": "share"
         },
@@ -85,7 +88,8 @@
             "url": "",
             "icon": "",
             "support_option": false,
-            "load_option": true,
+            "loading_screen": true,
+            "local_notification": true,
             "is_alert": false,
             "additional_data": "usage"
         },
@@ -107,7 +111,8 @@
             "url": "",
             "icon": "coins",
             "support_option": true,
-            "load_option": true,
+            "loading_screen": true,
+            "local_notification": false,
             "is_alert": false,
             "additional_data": "credits"
         },
@@ -129,7 +134,8 @@
             "url": "",
             "icon": "coins",
             "support_option": false,
-            "load_option": true,
+            "loading_screen": true,
+            "local_notification": false,
             "is_alert": false,
             "additional_data": "credits"
         },
@@ -151,7 +157,8 @@
             "url": "",
             "icon": "store",
             "support_option": false,
-            "load_option": true,
+            "loading_screen": true,
+            "local_notification": false,
             "is_alert": false,
             "additional_data": "shop"
         },
@@ -173,7 +180,8 @@
             "url": "",
             "icon": "star",
             "support_option": true,
-            "load_option": true,
+            "loading_screen": true,
+            "local_notification": true,
             "is_alert": false,
             "additional_data": "rating"
         },
@@ -194,7 +202,8 @@
             "url": "",
             "icon": "workspace-premium",
             "support_option": false,
-            "load_option": true,
+            "loading_screen": true,
+            "local_notification": false,
             "is_alert": false,
             "additional_data": "upgrade"
         },
@@ -215,7 +224,8 @@
             "url": "",
             "icon": "trending-up",
             "support_option": false,
-            "load_option": true,
+            "loading_screen": true,
+            "local_notification": true,
             "is_alert": false,
             "additional_data": "market"
         },
@@ -237,7 +247,8 @@
             "url": "",
             "icon": "notifications",
             "support_option": false,
-            "load_option": true,
+            "loading_screen": true,
+            "local_notification": false,
             "is_alert": false,
             "additional_data": "notifications"
         },
@@ -259,7 +270,8 @@
             "url": "https://gofund.me/4e761be9",
             "icon": "campaign",
             "support_option": true,
-            "load_option": true,
+            "loading_screen": true,
+            "local_notification": false,
             "is_alert": false,
             "additional_data": "gofundme"
         },
@@ -281,7 +293,8 @@
             "url": "https://mettacode.dev",
             "icon": "volunteer-activism",
             "support_option": true,
-            "load_option": true,
+            "loading_screen": true,
+            "local_notification": false,
             "is_alert": false,
             "additional_data": "support"
         },
@@ -298,7 +311,8 @@
             "url": "https://mettacode.dev",
             "icon": "developer-board",
             "support_option": false,
-            "load_option": true,
+            "loading_screen": true,
+            "local_notification": true,
             "is_alert": false,
             "additional_data": "test"
         }
