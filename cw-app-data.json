@@ -3,8 +3,29 @@
     "status": "OK",
     "notifications": [
         {
+            "start_date": "2023-01-10 00:00:00",
+            "expiration_date": "",
+            "title": "US Congress App Premium Subscriptions",
+            "message": "If your premium subscription was currently active and you experienced an interruption after installing Congress Watcher, please contact us with your Google Play receipt information so that we may reactivate your subscription",
+            "priority": 0,
+            "user_levels": [
+                "developer",
+               "free"
+            ],
+            "market": [
+                "world"
+            ],
+            "url": "",
+            "icon": "",
+            "support_option": false,
+            "loading_screen": false,
+            "local_notification": false,
+            "is_alert": true,
+            "additional_data": "alert"
+        },
+        {
             "start_date": "2023-01-08 00:00:00",
-            "expiration_date": "2023-03-01 00:00:00",
+            "expiration_date": "2023-02-01 00:00:00",
             "title": "Congress In Transition",
             "message": "Due to the Congressional transition from the 117th to 118th Congress. Some areas of the app may take some time to update or begin showing data. As new sessions begin, all areas will return.",
             "priority": 0,
