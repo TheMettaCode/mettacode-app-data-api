@@ -10,7 +10,7 @@
             "priority": 0,
             "user_levels": [
                 "developer",
-               "free"
+                "free"
             ],
             "market": [
                 "world"
@@ -73,7 +73,7 @@
             "start_date": "2022-10-14 00:00:00",
             "expiration_date": "",
             "title": "Share Congress Watcher App",
-            "message": "Get permanent credits when you share Congress Watcher App with friends, family & colleagues.",
+            "message": "Get support credits when you share Congress Watcher App with friends, family & colleagues.",
             "priority": 3,
             "user_levels": [
                 "developer",
@@ -141,7 +141,7 @@
             "start_date": "2022-11-25 00:00:00",
             "expiration_date": "",
             "title": "More Activity, More Credits",
-            "message": "App support & purchased credits are permanent. App usage credits decrease over time while not using the app. More activity, more credits!",
+            "message": "App purchased credits are permanent. App usage credits decrease over time while not using the app. More activity, more credits!",
             "priority": 4,
             "user_levels": [
                 "developer",

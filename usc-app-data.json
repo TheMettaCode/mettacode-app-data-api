@@ -21,26 +21,6 @@
             "icon": "notifications",
             "support-option": true,
             "additional-data": "important"
-        },
-        {
-            "start-date": "2022-10-26 00:00:00",
-            "expiration-date": "",
-            "title": "Contact App Support",
-            "message": "App support options can be found on our humble website. Tap here to view!",
-            "priority": 9,
-            "user-levels": [
-                "developer",
-                "premium",
-                "legacy",
-                "free"
-            ],
-            "market": [
-                "world"
-            ],
-            "url": "https://mettacode.dev",
-            "icon": "volunteer-activism",
-            "support-option": true,
-            "additional-data": "support"
         }
     ]
 }
