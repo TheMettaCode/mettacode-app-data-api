@@ -3,27 +3,6 @@
     "status": "OK",
     "notifications": [
         {
-            "start_date": "2023-01-10 00:00:00",
-            "expiration_date": "",
-            "title": "US Congress App Premium Subscriptions",
-            "message": "If your premium subscription was currently active and you experienced an interruption after installing Congress Watcher, please contact us with your Google Play receipt information so that we may reactivate your subscription",
-            "priority": 0,
-            "user_levels": [
-                "developer",
-                "free"
-            ],
-            "market": [
-                "world"
-            ],
-            "url": "",
-            "icon": "",
-            "support_option": false,
-            "loading_screen": false,
-            "local_notification": false,
-            "is_alert": true,
-            "additional_data": "alert"
-        },
-        {
             "start_date": "2023-01-08 00:00:00",
             "expiration_date": "2023-01-15 00:00:00",
             "title": "Congress In Transition",
@@ -47,32 +26,9 @@
             "additional_data": "alert"
         },
         {
-            "start_date": "2022-11-06 00:00:00",
-            "expiration_date": "2022-11-08 00:00:00",
-            "title": "Make your vote count",
-            "message": "Make sure to have your voice count! Vote the Midterms!",
-            "priority": 1,
-            "user_levels": [
-                "developer",
-                "premium",
-                "legacy",
-                "free"
-            ],
-            "market": [
-                "usa"
-            ],
-            "url": "",
-            "icon": "campaign",
-            "support_option": false,
-            "loading_screen": true,
-            "local_notification": true,
-            "is_alert": false,
-            "additional_data": "vote"
-        },
-        {
             "start_date": "2022-10-14 00:00:00",
             "expiration_date": "",
-            "title": "Share Congress Watcher App",
+            "title": "Share Wanted! App",
             "message": "Get support credits when you share Congress Watcher App with friends, family & colleagues.",
             "priority": 3,
             "user_levels": [
@@ -186,7 +142,7 @@
         {
             "start_date": "2022-10-14 00:00:00",
             "expiration_date": "",
-            "title": "Enjoying Congress Watcher App?",
+            "title": "Enjoying Wanted! App?",
             "message": "Let us know how we're doing, and if there is something we can improve on. Tap here to give us a rating!",
             "priority": 4,
             "user_levels": [
@@ -231,28 +187,6 @@
         {
             "start_date": "2022-10-14 00:00:00",
             "expiration_date": "",
-            "title": "Follow Market Trade Activity",
-            "message": "Keep track of congressional members' stock trade disclosures, trade information and alerts. Consider upgrading today!",
-            "priority": 5,
-            "user_levels": [
-                "developer",
-                "legacy",
-                "free"
-            ],
-            "market": [
-                "world"
-            ],
-            "url": "",
-            "icon": "trending-up",
-            "support_option": false,
-            "loading_screen": true,
-            "local_notification": true,
-            "is_alert": false,
-            "additional_data": "market"
-        },
-        {
-            "start_date": "2022-10-14 00:00:00",
-            "expiration_date": "",
             "title": "Fine Tune App Notifications",
             "message": "Adjust alerts and notifications from the [Settings] tile on the side menu!",
             "priority": 6,
@@ -272,29 +206,6 @@
             "local_notification": false,
             "is_alert": false,
             "additional_data": "notifications"
-        },
-        {
-            "start_date": "2022-10-14 00:00:00",
-            "expiration_date": "2023-01-01 23:59:59",
-            "title": "Consider our iOS GoFundMe",
-            "message": "Help with funding for development of our iOS version of Congress Watcher app. Tap here or contact us for details",
-            "priority": 8,
-            "user_levels": [
-                "developer",
-                "premium",
-                "legacy",
-                "free"
-            ],
-            "market": [
-                "world"
-            ],
-            "url": "https://gofund.me/4e761be9",
-            "icon": "campaign",
-            "support_option": true,
-            "loading_screen": true,
-            "local_notification": false,
-            "is_alert": false,
-            "additional_data": "gofundme"
         },
         {
             "start_date": "2022-10-26 00:00:00",
