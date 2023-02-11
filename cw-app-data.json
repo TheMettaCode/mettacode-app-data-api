@@ -71,6 +71,29 @@
             "additional_data": "usage"
         },
         {
+            "start_date": "2022-10-14 00:00:00",
+            "expiration_date": "",
+            "title": "Purchase App Credits",
+            "message": "Use your app credits to buy cool in-app merchandise.",
+            "priority": 4,
+            "user_levels": [
+                "developer",
+                "premium",
+                "legacy",
+                "free"
+            ],
+            "market": [
+                "usa"
+            ],
+            "url": "",
+            "icon": "coins",
+            "support_option": true,
+            "loading_screen": true,
+            "local_notification": false,
+            "is_alert": false,
+            "additional_data": "credits"
+        },
+        {
             "start_date": "2022-11-25 00:00:00",
             "expiration_date": "",
             "title": "More Activity, More Credits",
@@ -96,6 +119,29 @@
         {
             "start_date": "2022-10-14 00:00:00",
             "expiration_date": "",
+            "title": "Redeem Credits for Cool Merch",
+            "message": "Trade in your credits and shop for cool products in the merch shop.",
+            "priority": 4,
+            "user_levels": [
+                "developer",
+                "premium",
+                "legacy",
+                "free"
+            ],
+            "market": [
+                "usa"
+            ],
+            "url": "",
+            "icon": "store",
+            "support_option": false,
+            "loading_screen": true,
+            "local_notification": false,
+            "is_alert": false,
+            "additional_data": "shop"
+        },
+        {
+            "start_date": "2022-10-14 00:00:00",
+            "expiration_date": "",
             "title": "Enjoying Congress Watcher App?",
             "message": "Let us know how we're doing, and if there is something we can improve on. Tap here to give us a rating!",
             "priority": 4,
@@ -115,6 +161,51 @@
             "local_notification": true,
             "is_alert": false,
             "additional_data": "rating"
+        },
+        {
+            "start_date": "2022-10-14 00:00:00",
+            "expiration_date": "2022-10-19 00:00:00",
+            "title": "Ready For Premium Status?",
+            "message": "Our Free Premium Days promotion runs the first week of every month where you can try out all app features!",
+            "priority": 5,
+            "user_levels": [
+                "developer",
+                "legacy",
+                "free"
+            ],
+            "market": [
+                "world"
+            ],
+            "url": "",
+            "icon": "workspace-premium",
+            "support_option": false,
+            "loading_screen": true,
+            "local_notification": false,
+            "is_alert": false,
+            "additional_data": "upgrade"
+        },
+        {
+            "start_date": "2022-10-14 00:00:00",
+            "expiration_date": "",
+            "title": "Fine Tune App Notifications",
+            "message": "Adjust alerts and notifications from the [Settings] tile on the side menu!",
+            "priority": 6,
+            "user_levels": [
+                "developer",
+                "premium",
+                "legacy",
+                "free"
+            ],
+            "market": [
+                "world"
+            ],
+            "url": "",
+            "icon": "notifications",
+            "support_option": false,
+            "loading_screen": true,
+            "local_notification": false,
+            "is_alert": false,
+            "additional_data": "notifications"
         },
         {
             "start_date": "2022-10-26 00:00:00",
