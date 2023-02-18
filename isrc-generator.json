@@ -1,0 +1,297 @@
+{
+    "app": "isrc_generator",
+    "status": "OK",
+    "notifications": [
+        {
+            "start_date": "2023-01-08 00:00:00",
+            "expiration_date": "2023-01-15 00:00:00",
+            "title": "Congress In Transition",
+            "message": "Due to the Congressional transition from the 117th to 118th Congress. Some areas of the app may take some time to update or begin showing data. As new sessions begin, all areas will return.",
+            "priority": 0,
+            "user_levels": [
+                "developer",
+                "premium",
+                "free"
+            ],
+            "market": [
+                "google",
+                "amazon",
+                "web"
+            ],
+            "locality": [
+                "world"
+            ],
+            "url": "",
+            "icon": "",
+            "support_option": false,
+            "loading_screen": true,
+            "local_notification": false,
+            "is_alert": true,
+            "additional_data": "alert"
+        },
+        {
+            "start_date": "2022-10-14 00:00:00",
+            "expiration_date": "",
+            "title": "Share BlakLoops Music",
+            "message": "Get support credits when you share Wanted! App with friends, family & colleagues.",
+            "priority": 3,
+            "user_levels": [
+                "developer",
+                "premium",
+                "free"
+            ],
+            "market": [
+                "google",
+                "amazon",
+                "web"
+            ],
+            "locality": [
+                "world"
+            ],
+            "url": "",
+            "icon": "handshake",
+            "support_option": true,
+            "loading_screen": true,
+            "local_notification": true,
+            "is_alert": false,
+            "additional_data": "share"
+        },
+        {
+            "start_date": "2022-11-10 00:00:00",
+            "expiration_date": "",
+            "title": "More Points, More Privilege!",
+            "message": "The more you use the app, the fewer ads you will see!",
+            "priority": 3,
+            "user_levels": [
+                "developer",
+                "free"
+            ],
+            "market": [
+                "google",
+                "amazon",
+                "web"
+            ],
+            "locality": [
+                "world"
+            ],
+            "url": "",
+            "icon": "",
+            "support_option": false,
+            "loading_screen": true,
+            "local_notification": true,
+            "is_alert": false,
+            "additional_data": "usage"
+        },
+        {
+            "start_date": "2022-10-14 00:00:00",
+            "expiration_date": "",
+            "title": "Purchase App Credits",
+            "message": "Use your app credits to buy cool in-app merchandise.",
+            "priority": 4,
+            "user_levels": [
+                "developer",
+                "premium",
+                "free"
+            ],
+            "market": [
+                "google",
+                "amazon",
+                "web"
+            ],
+            "locality": [
+                "usa"
+            ],
+            "url": "",
+            "icon": "coins",
+            "support_option": true,
+            "loading_screen": true,
+            "local_notification": false,
+            "is_alert": false,
+            "additional_data": "credits"
+        },
+        {
+            "start_date": "2022-11-25 00:00:00",
+            "expiration_date": "",
+            "title": "More Activity, More Credits",
+            "message": "App purchased credits are permanent. App usage credits decrease over time while not using the app. More activity, more credits!",
+            "priority": 4,
+            "user_levels": [
+                "developer",
+                "premium",
+                "free"
+            ],
+            "market": [
+                "google",
+                "amazon",
+                "web"
+            ],
+            "locality": [
+                "world"
+            ],
+            "url": "",
+            "icon": "coins",
+            "support_option": false,
+            "loading_screen": true,
+            "local_notification": false,
+            "is_alert": false,
+            "additional_data": "credits"
+        },
+        {
+            "start_date": "2022-10-14 00:00:00",
+            "expiration_date": "",
+            "title": "Redeem Credits for Cool Merch",
+            "message": "Trade in your credits and shop for cool products in the merch shop.",
+            "priority": 4,
+            "user_levels": [
+                "developer",
+                "premium",
+                "free"
+            ],
+            "market": [
+                "google",
+                "amazon",
+                "web"
+            ],
+            "locality": [
+                "usa"
+            ],
+            "url": "",
+            "icon": "store",
+            "support_option": false,
+            "loading_screen": true,
+            "local_notification": false,
+            "is_alert": false,
+            "additional_data": "shop"
+        },
+        {
+            "start_date": "2022-10-14 00:00:00",
+            "expiration_date": "",
+            "title": "Enjoying BlakLoops?",
+            "message": "Let us know how we're doing, and if there is something we can improve on. Tap here to give us a rating!",
+            "priority": 4,
+            "user_levels": [
+                "developer",
+                "premium",
+                "free"
+            ],
+            "market": [
+                "google",
+                "amazon",
+                "web"
+            ],
+            "locality": [
+                "world"
+            ],
+            "url": "",
+            "icon": "star",
+            "support_option": true,
+            "loading_screen": true,
+            "local_notification": true,
+            "is_alert": false,
+            "additional_data": "rating"
+        },
+        {
+            "start_date": "2022-10-14 00:00:00",
+            "expiration_date": "2022-10-19 00:00:00",
+            "title": "Ready For Premium Status?",
+            "message": "Our Free Premium Days promotion runs the first week of every month where you can try out all app features!",
+            "priority": 5,
+            "user_levels": [
+                "developer",
+                "free"
+            ],
+            "market": [
+                "google",
+                "amazon",
+                "web"
+            ],
+            "locality": [
+                "world"
+            ],
+            "url": "",
+            "icon": "workspace-premium",
+            "support_option": false,
+            "loading_screen": true,
+            "local_notification": false,
+            "is_alert": false,
+            "additional_data": "upgrade"
+        },
+        {
+            "start_date": "2022-10-14 00:00:00",
+            "expiration_date": "",
+            "title": "Fine Tune App Notifications",
+            "message": "Adjust alerts and notifications from the [Settings] tile on the side menu!",
+            "priority": 6,
+            "user_levels": [
+                "developer",
+                "premium",
+                "free"
+            ],
+            "market": [
+                "google",
+                "amazon",
+                "web"
+            ],
+            "locality": [
+                "world"
+            ],
+            "url": "",
+            "icon": "notifications",
+            "support_option": false,
+            "loading_screen": true,
+            "local_notification": false,
+            "is_alert": false,
+            "additional_data": "notifications"
+        },
+        {
+            "start_date": "2022-10-26 00:00:00",
+            "expiration_date": "",
+            "title": "Developer Support Options",
+            "message": "Developer support options can be found on our humble website. Tap here to view!",
+            "priority": 9,
+            "user_levels": [
+                "developer",
+                "premium",
+                "free"
+            ],
+            "market": [
+                "google",
+                "amazon",
+                "web"
+            ],
+            "locality": [
+                "world"
+            ],
+            "url": "https://mettacode.dev",
+            "icon": "volunteer-activism",
+            "support_option": true,
+            "loading_screen": true,
+            "local_notification": false,
+            "is_alert": false,
+            "additional_data": "support"
+        },
+        {
+            "start_date": "2022-10-27 00:00:00",
+            "expiration_date": "",
+            "title": "Hello World",
+            "message": "Since you ARE MettaCode. Just sending a test",
+            "priority": 10,
+            "user_levels": [
+                "developer"
+            ],
+            "market": [
+                "google",
+                "amazon",
+                "web"
+            ],
+            "locality": [],
+            "url": "https://mettacode.dev",
+            "icon": "developer-board",
+            "support_option": false,
+            "loading_screen": true,
+            "local_notification": true,
+            "is_alert": false,
+            "additional_data": "test"
+        }
+    ]
+}

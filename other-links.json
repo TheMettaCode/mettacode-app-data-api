@@ -1,0 +1,130 @@
+{
+    "links": [
+        {
+            "application": "upc_generator",
+            "active": true,
+            "title": "UPC Code Generator",
+            "description": "Code generator for UPC codes.",
+            "user_levels": [
+                "developer",
+                "premium",
+                "free"
+            ],
+            "market": [
+                "google",
+                "amazon",
+                "web"
+            ],
+            "locality": [
+                "world"
+            ],
+            "google_play_url": "",
+            "amazon_url": "",
+            "website_url": "",
+            "apk_url": "",
+            "avatarUrl": "",
+            "icon": "",
+            "additional_data": ""
+        },
+        {
+            "application": "isrc_generator",
+            "active": true,
+            "title": "ISRC Generator",
+            "description": "Code generator for song ISRC codes.",
+            "user_levels": [
+                "developer",
+                "premium",
+                "free"
+            ],
+            "market": [
+                "google",
+                "amazon",
+                "web"
+            ],
+            "locality": [
+                "world"
+            ],
+            "google_play_url": "",
+            "amazon_url": "",
+            "website_url": "",
+            "apk_url": "",
+            "avatarUrl": "",
+            "icon": "",
+            "additional_data": ""
+        },
+        {
+            "application": "blakloops",
+            "active": true,
+            "title": "BlakLoops Music",
+            "description": "Code generator for UPC codes.",
+            "user_levels": [
+                "developer",
+                "premium",
+                "free"
+            ],
+            "market": [
+                "google",
+                "amazon",
+                "web"
+            ],
+            "locality": [
+                "world"
+            ],
+            "google_play_url": "",
+            "amazon_url": "",
+            "website_url": "",
+            "apk_url": "",
+            "avatarUrl": "",
+            "icon": "",
+            "additional_data": ""
+        },
+        {
+            "application": "congress_watcher",
+            "active": true,
+            "title": "Congress Watcher",
+            "description": "Keep track of US Congressional members, activities, bills, votes and more!.",
+            "user_levels": [
+                "developer",
+                "premium",
+                "free"
+            ],
+            "market": [
+                "google",
+                "amazon",
+                "web"
+            ],
+            "locality": [
+                "world"
+            ],
+            "google_play_url": "",
+            "amazon_url": "",
+            "website_url": "",
+            "apk_url": "",
+            "avatarUrl": "",
+            "icon": "",
+            "additional_data": ""
+        },
+        {
+            "application": "wanted",
+            "active": true,
+            "title": "Wanted!",
+            "description": "Stay informed about fugitives wanted by the FBI. Including reward amounts.",
+            "user_levels": [],
+            "market": [
+                "google",
+                "amazon",
+                "web"
+            ],
+            "locality": [
+                "world"
+            ],
+            "google_play_url": "",
+            "amazon_url": "",
+            "website_url": "",
+            "apk_url": "",
+            "avatarUrl": "",
+            "icon": "",
+            "additional_data": ""
+        }
+    ]
+}
