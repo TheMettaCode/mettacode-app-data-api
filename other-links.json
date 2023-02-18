@@ -1,20 +1,66 @@
 {
     "links": [
         {
-            "application": "upc_generator",
+            "application": "mettacode_dev_google_play",
             "active": true,
+            "title": "MettaCode GPlay",
+            "description": "Official MettaCode Developers Google Play Profile.",
+            "user_levels": [],
+            "market": [],
+            "locality": [
+                "world"
+            ],
+            "google_play_url": "https://play.google.com/store/apps/dev?id=8815266571161032386",
+            "amazon_url": "",
+            "website_url": "https://play.google.com/store/apps/dev?id=8815266571161032386",
+            "apk_url": "",
+            "avatar_url": "",
+            "icon": "",
+            "additional_data": ""
+        },
+        {
+            "application": "github",
+            "active": true,
+            "title": "MettaCode GitHub",
+            "description": "Official MettaCode Developers GitHub Profile.",
+            "user_levels": [],
+            "market": [],
+            "locality": [
+                "world"
+            ],
+            "google_play_url": "",
+            "amazon_url": "",
+            "website_url": "https://github.com/TheMettaCode",
+            "apk_url": "",
+            "avatar_url": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+            "icon": "",
+            "additional_data": ""
+        },
+        {
+            "application": "twitter",
+            "active": true,
+            "title": "MettaCode Twitter",
+            "description": "MettaCode Developers Official Twitter Profile.",
+            "user_levels": [],
+            "market": [],
+            "locality": [
+                "world"
+            ],
+            "google_play_url": "",
+            "amazon_url": "",
+            "website_url": "https://twitter.com/mettacodedev",
+            "apk_url": "",
+            "avatar_url": "https://cdn.cms-twdigitalassets.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.2560.jpg",
+            "icon": "",
+            "additional_data": ""
+        },
+        {
+            "application": "upc_generator",
+            "active": false,
             "title": "UPC Code Generator",
             "description": "Code generator for UPC codes.",
-            "user_levels": [
-                "developer",
-                "premium",
-                "free"
-            ],
-            "market": [
-                "google",
-                "amazon",
-                "web"
-            ],
+            "user_levels": [],
+            "market": [],
             "locality": [
                 "world"
             ],
@@ -31,16 +77,8 @@
             "active": true,
             "title": "ISRC Generator",
             "description": "Code generator for song ISRC codes.",
-            "user_levels": [
-                "developer",
-                "premium",
-                "free"
-            ],
-            "market": [
-                "google",
-                "amazon",
-                "web"
-            ],
+            "user_levels": [],
+            "market": [],
             "locality": [
                 "world"
             ],
@@ -57,16 +95,8 @@
             "active": true,
             "title": "BlakLoops Music",
             "description": "Code generator for UPC codes.",
-            "user_levels": [
-                "developer",
-                "premium",
-                "free"
-            ],
-            "market": [
-                "google",
-                "amazon",
-                "web"
-            ],
+            "user_levels": [],
+            "market": [],
             "locality": [
                 "world"
             ],
@@ -83,16 +113,8 @@
             "active": true,
             "title": "Congress Watcher",
             "description": "Keep track of US Congressional members, activities, bills, votes and more!.",
-            "user_levels": [
-                "developer",
-                "premium",
-                "free"
-            ],
-            "market": [
-                "google",
-                "amazon",
-                "web"
-            ],
+            "user_levels": [],
+            "market": [],
             "locality": [
                 "world"
             ],
@@ -124,6 +146,26 @@
             "apk_url": "",
             "avatar_url": "",
             "icon": "",
+            "additional_data": ""
+        },
+        {
+            "application": "scapegoats_usa",
+            "active": true,
+            "title": "SCAPEGOATS USA",
+            "description": "Apparel and products for those who take the blame.",
+            "user_levels": [],
+            "market": [
+                "web"
+            ],
+            "locality": [
+                "world"
+            ],
+            "google_play_url": "",
+            "amazon_url": "",
+            "website_url": "https://scapegoatsusa.com/",
+            "apk_url": "",
+            "avatar_url": "",
+            "icon": "launch",
             "additional_data": ""
         }
     ]
