@@ -1,6 +1,118 @@
 {
     "links": [
         {
+            "application": "upc_generator",
+            "active": false,
+            "title": "UPC Code Generator",
+            "description": "Code generator for UPC codes.",
+            "user_levels": [],
+            "market": [],
+            "locality": [
+                "world"
+            ],
+            "google_play_url": "",
+            "amazon_url": "",
+            "website_url": "",
+            "apk_url": "",
+            "avatar_url": "",
+            "icon": "",
+            "additional_data": ""
+        },
+        {
+            "application": "isrc_generator",
+            "active": true,
+            "title": "ISRC Generator",
+            "description": "Code generator for song ISRC codes.",
+            "user_levels": [],
+            "market": [],
+            "locality": [
+                "world"
+            ],
+            "google_play_url": "",
+            "amazon_url": "",
+            "website_url": "",
+            "apk_url": "",
+            "avatar_url": "",
+            "icon": "",
+            "additional_data": ""
+        },
+        {
+            "application": "blakloops",
+            "active": true,
+            "title": "BlakLoops Music",
+            "description": "Original 8+ Bar music loops available in hi-fi mixed or multi-track format.",
+            "user_levels": [],
+            "market": [],
+            "locality": [
+                "world"
+            ],
+            "google_play_url": "",
+            "amazon_url": "",
+            "website_url": "",
+            "apk_url": "",
+            "avatar_url": "",
+            "icon": "",
+            "additional_data": ""
+        },
+        {
+            "application": "congress_watcher",
+            "active": true,
+            "title": "Congress Watcher",
+            "description": "Keep track of US Congressional members, activities, bills, votes and more!.",
+            "user_levels": [],
+            "market": [],
+            "locality": [
+                "world"
+            ],
+            "google_play_url": "",
+            "amazon_url": "",
+            "website_url": "",
+            "apk_url": "",
+            "avatar_url": "",
+            "icon": "",
+            "additional_data": ""
+        },
+        {
+            "application": "wanted",
+            "active": true,
+            "title": "Wanted!",
+            "description": "Stay informed about fugitives wanted by the FBI. Including reward amounts.",
+            "user_levels": [],
+            "market": [
+                "google"
+            ],
+            "locality": [
+                "world"
+            ],
+            "google_play_url": "",
+            "amazon_url": "",
+            "website_url": "",
+            "apk_url": "",
+            "avatar_url": "",
+            "icon": "",
+            "additional_data": ""
+        },
+        {
+            "application": "scapegoats_usa",
+            "active": true,
+            "title": "SCAPEGOATS USA",
+            "description": "Apparel and products for those who take the blame.",
+            "user_levels": [],
+            "market": [
+                "web"
+            ],
+            "locality": [
+                "world"
+            ],
+            "google_play_url": "",
+            "amazon_url": "",
+            "website_url": "https://scapegoatsusa.com/",
+            "apk_url": "",
+            "avatar_url": "",
+            "icon": "launch",
+            "additional_data": ""
+        },
+        {
             "application": "mettacode_dev_google_play",
             "active": true,
             "title": "MettaCode GPlay",
@@ -52,120 +164,6 @@
             "apk_url": "",
             "avatar_url": "https://cdn.cms-twdigitalassets.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.2560.jpg",
             "icon": "",
-            "additional_data": ""
-        },
-        {
-            "application": "upc_generator",
-            "active": false,
-            "title": "UPC Code Generator",
-            "description": "Code generator for UPC codes.",
-            "user_levels": [],
-            "market": [],
-            "locality": [
-                "world"
-            ],
-            "google_play_url": "",
-            "amazon_url": "",
-            "website_url": "",
-            "apk_url": "",
-            "avatar_url": "",
-            "icon": "",
-            "additional_data": ""
-        },
-        {
-            "application": "isrc_generator",
-            "active": true,
-            "title": "ISRC Generator",
-            "description": "Code generator for song ISRC codes.",
-            "user_levels": [],
-            "market": [],
-            "locality": [
-                "world"
-            ],
-            "google_play_url": "",
-            "amazon_url": "",
-            "website_url": "",
-            "apk_url": "",
-            "avatar_url": "",
-            "icon": "",
-            "additional_data": ""
-        },
-        {
-            "application": "blakloops",
-            "active": true,
-            "title": "BlakLoops Music",
-            "description": "Code generator for UPC codes.",
-            "user_levels": [],
-            "market": [],
-            "locality": [
-                "world"
-            ],
-            "google_play_url": "",
-            "amazon_url": "",
-            "website_url": "",
-            "apk_url": "",
-            "avatar_url": "",
-            "icon": "",
-            "additional_data": ""
-        },
-        {
-            "application": "congress_watcher",
-            "active": true,
-            "title": "Congress Watcher",
-            "description": "Keep track of US Congressional members, activities, bills, votes and more!.",
-            "user_levels": [],
-            "market": [],
-            "locality": [
-                "world"
-            ],
-            "google_play_url": "",
-            "amazon_url": "",
-            "website_url": "",
-            "apk_url": "",
-            "avatar_url": "",
-            "icon": "",
-            "additional_data": ""
-        },
-        {
-            "application": "wanted",
-            "active": true,
-            "title": "Wanted!",
-            "description": "Stay informed about fugitives wanted by the FBI. Including reward amounts.",
-            "user_levels": [],
-            "market": [
-                "google",
-                "amazon",
-                "web"
-            ],
-            "locality": [
-                "world"
-            ],
-            "google_play_url": "",
-            "amazon_url": "",
-            "website_url": "",
-            "apk_url": "",
-            "avatar_url": "",
-            "icon": "",
-            "additional_data": ""
-        },
-        {
-            "application": "scapegoats_usa",
-            "active": true,
-            "title": "SCAPEGOATS USA",
-            "description": "Apparel and products for those who take the blame.",
-            "user_levels": [],
-            "market": [
-                "web"
-            ],
-            "locality": [
-                "world"
-            ],
-            "google_play_url": "",
-            "amazon_url": "",
-            "website_url": "https://scapegoatsusa.com/",
-            "apk_url": "",
-            "avatar_url": "",
-            "icon": "launch",
             "additional_data": ""
         }
     ]
