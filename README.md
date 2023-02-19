@@ -1,5 +1,5 @@
-# MettaCode Developers App Promo Message API
+# MettaCode Developers Message & Links API Data
 
-User message API for multiple MettaCode apps
+API data for multiple MettaCode apps
 
-JSON file for developer use when communicating messages and promotions with app users
+JSON file for use when communicating information and promotions with app users
