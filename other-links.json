@@ -2,7 +2,7 @@
     "links": [
         {
             "name_tag": "upc_generator",
-            "isApp": true,
+            "is_app": true,
             "active": false,
             "title": "UPC Code Generator",
             "description": "Code generator for UPC codes.",
@@ -21,7 +21,7 @@
         },
         {
             "name_tag": "isrc_generator",
-            "isApp": true,
+            "is_app": true,
             "active": true,
             "title": "ISRC Generator",
             "description": "Code generator for song ISRC codes.",
@@ -40,7 +40,7 @@
         },
         {
             "name_tag": "blakloops",
-            "isApp": true,
+            "is_app": true,
             "active": true,
             "title": "BlakLoops Music",
             "description": "Original 8+ Bar music loops available in hi-fi mixed or multi-track format.",
@@ -59,7 +59,7 @@
         },
         {
             "name_tag": "congress_watcher",
-            "isApp": true,
+            "is_app": true,
             "active": true,
             "title": "Congress Watcher",
             "description": "Keep track of US Congressional members, activities, bills, votes and more!.",
@@ -78,7 +78,7 @@
         },
         {
             "name_tag": "wanted",
-            "isApp": true,
+            "is_app": true,
             "active": true,
             "title": "Wanted!",
             "description": "Stay informed about fugitives wanted by the FBI. Including reward amounts.",
@@ -99,7 +99,7 @@
         },
         {
             "name_tag": "scapegoats_usa",
-            "isApp": true,
+            "is_app": true,
             "active": true,
             "title": "SCAPEGOATS USA",
             "description": "Apparel and products for those who take the blame.",
@@ -120,7 +120,7 @@
         },
         {
             "name_tag": "mettacode_dev_google_play",
-            "isApp": false,
+            "is_app": false,
             "active": true,
             "title": "MettaCode GPlay",
             "description": "Official MettaCode Developers Google Play Profile.",
@@ -139,7 +139,7 @@
         },
         {
             "name_tag": "github",
-            "isApp": false,
+            "is_app": false,
             "active": true,
             "title": "MettaCode GitHub",
             "description": "Official MettaCode Developers GitHub Profile.",
@@ -158,7 +158,7 @@
         },
         {
             "name_tag": "twitter",
-            "isApp": false,
+            "is_app": false,
             "active": true,
             "title": "MettaCode Twitter",
             "description": "MettaCode Developers Official Twitter Profile.",
