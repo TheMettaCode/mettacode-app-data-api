@@ -1,7 +1,8 @@
 {
     "links": [
         {
-            "application": "upc_generator",
+            "name_tag": "upc_generator",
+            "isApp": true,
             "active": false,
             "title": "UPC Code Generator",
             "description": "Code generator for UPC codes.",
@@ -19,7 +20,8 @@
             "additional_data": ""
         },
         {
-            "application": "isrc_generator",
+            "name_tag": "isrc_generator",
+            "isApp": true,
             "active": true,
             "title": "ISRC Generator",
             "description": "Code generator for song ISRC codes.",
@@ -37,7 +39,8 @@
             "additional_data": ""
         },
         {
-            "application": "blakloops",
+            "name_tag": "blakloops",
+            "isApp": true,
             "active": true,
             "title": "BlakLoops Music",
             "description": "Original 8+ Bar music loops available in hi-fi mixed or multi-track format.",
@@ -55,7 +58,8 @@
             "additional_data": ""
         },
         {
-            "application": "congress_watcher",
+            "name_tag": "congress_watcher",
+            "isApp": true,
             "active": true,
             "title": "Congress Watcher",
             "description": "Keep track of US Congressional members, activities, bills, votes and more!.",
@@ -73,7 +77,8 @@
             "additional_data": ""
         },
         {
-            "application": "wanted",
+            "name_tag": "wanted",
+            "isApp": true,
             "active": true,
             "title": "Wanted!",
             "description": "Stay informed about fugitives wanted by the FBI. Including reward amounts.",
@@ -93,7 +98,8 @@
             "additional_data": ""
         },
         {
-            "application": "scapegoats_usa",
+            "name_tag": "scapegoats_usa",
+            "isApp": true,
             "active": true,
             "title": "SCAPEGOATS USA",
             "description": "Apparel and products for those who take the blame.",
@@ -113,7 +119,8 @@
             "additional_data": ""
         },
         {
-            "application": "mettacode_dev_google_play",
+            "name_tag": "mettacode_dev_google_play",
+            "isApp": false,
             "active": true,
             "title": "MettaCode GPlay",
             "description": "Official MettaCode Developers Google Play Profile.",
@@ -131,7 +138,8 @@
             "additional_data": ""
         },
         {
-            "application": "github",
+            "name_tag": "github",
+            "isApp": false,
             "active": true,
             "title": "MettaCode GitHub",
             "description": "Official MettaCode Developers GitHub Profile.",
@@ -149,7 +157,8 @@
             "additional_data": ""
         },
         {
-            "application": "twitter",
+            "name_tag": "twitter",
+            "isApp": false,
             "active": true,
             "title": "MettaCode Twitter",
             "description": "MettaCode Developers Official Twitter Profile.",
