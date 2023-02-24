@@ -17,7 +17,7 @@
             "apk_url": "",
             "avatar_url": "",
             "icon": "",
-            "additional_data": ""
+            "additional_data": "none"
         },
         {
             "name_tag": "isrc_generator",
@@ -42,7 +42,7 @@
             "name_tag": "blakloops",
             "is_app": true,
             "active": true,
-            "title": "BlakLoops Music",
+            "title": "BLAKLOOPS™",
             "description": "Original 8+ Bar music loops available in hi-fi mixed or multi-track format.",
             "user_levels": [],
             "market": [],
