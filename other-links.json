@@ -22,7 +22,7 @@
         {
             "name_tag": "isrc_generator",
             "is_app": true,
-            "active": true,
+            "active": false,
             "title": "ISRC Generator",
             "description": "Code generator for song ISRC codes.",
             "user_levels": [],
