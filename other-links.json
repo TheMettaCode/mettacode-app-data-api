@@ -41,7 +41,7 @@
         {
             "name_tag": "blakloops",
             "is_app": true,
-            "active": true,
+            "active": false,
             "title": "BLAKLOOPS™",
             "description": "Original 8+ Bar music loops available in hi-fi mixed or multi-track format.",
             "user_levels": [],
