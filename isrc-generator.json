@@ -6,7 +6,7 @@
             "start_date": "2023-03-16 00:00:00",
             "expiration_date": "",
             "title": "Test Alert",
-            "message": "Alert used for development testing",
+            "message": "ISRC Generator is currently in Beta development. Please contact us to report any bugs.",
             "priority": 0,
             "user_levels": [],
             "market": [
