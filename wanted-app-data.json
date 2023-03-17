@@ -3,24 +3,23 @@
     "status": "OK",
     "notifications": [
         {
-            "start_date": "2023-01-08 00:00:00",
-            "expiration_date": "2023-01-15 00:00:00",
-            "title": "Congress In Transition",
-            "message": "Due to the Congressional transition from the 117th to 118th Congress. Some areas of the app may take some time to update or begin showing data. As new sessions begin, all areas will return.",
+            "start_date": "2023-03-16 00:00:00",
+            "expiration_date": "",
+            "title": "Test Alert",
+            "message": "Alert used for development testing",
             "priority": 0,
-            "user_levels": [
-                "developer",
-                "premium",
-                "legacy",
-                "free"
-            ],
+            "user_levels": [],
             "market": [
+                "google",
+                "web"
+            ],
+            "locality": [
                 "world"
             ],
             "url": "",
             "icon": "",
             "support_option": false,
-            "loading_screen": true,
+            "loading_screen": false,
             "local_notification": false,
             "is_alert": true,
             "additional_data": "alert"
@@ -29,7 +28,7 @@
             "start_date": "2022-10-14 00:00:00",
             "expiration_date": "",
             "title": "Share Wanted! App",
-            "message": "Get support credits when you share Congress Watcher App with friends, family & colleagues.",
+            "message": "Get credits when you share Congress Watcher App with friends, family & colleagues.",
             "priority": 3,
             "user_levels": [
                 "developer",
@@ -47,51 +46,6 @@
             "local_notification": true,
             "is_alert": false,
             "additional_data": "share"
-        },
-        {
-            "start_date": "2022-11-10 00:00:00",
-            "expiration_date": "",
-            "title": "More Points, More Privilege!",
-            "message": "The more you use the app, the fewer ads you will see!",
-            "priority": 3,
-            "user_levels": [
-                "developer",
-                "legacy",
-                "free"
-            ],
-            "market": [
-                "world"
-            ],
-            "url": "",
-            "icon": "",
-            "support_option": false,
-            "loading_screen": true,
-            "local_notification": true,
-            "is_alert": false,
-            "additional_data": "usage"
-        },
-        {
-            "start_date": "2022-10-14 00:00:00",
-            "expiration_date": "",
-            "title": "Purchase App Credits",
-            "message": "Use your app credits to buy cool in-app merchandise.",
-            "priority": 4,
-            "user_levels": [
-                "developer",
-                "premium",
-                "legacy",
-                "free"
-            ],
-            "market": [
-                "usa"
-            ],
-            "url": "",
-            "icon": "coins",
-            "support_option": true,
-            "loading_screen": true,
-            "local_notification": false,
-            "is_alert": false,
-            "additional_data": "credits"
         },
         {
             "start_date": "2022-11-25 00:00:00",
@@ -119,30 +73,7 @@
         {
             "start_date": "2022-10-14 00:00:00",
             "expiration_date": "",
-            "title": "Redeem Credits for Cool Merch",
-            "message": "Trade in your credits and shop for cool products in the merch shop.",
-            "priority": 4,
-            "user_levels": [
-                "developer",
-                "premium",
-                "legacy",
-                "free"
-            ],
-            "market": [
-                "usa"
-            ],
-            "url": "",
-            "icon": "store",
-            "support_option": false,
-            "loading_screen": true,
-            "local_notification": false,
-            "is_alert": false,
-            "additional_data": "shop"
-        },
-        {
-            "start_date": "2022-10-14 00:00:00",
-            "expiration_date": "",
-            "title": "Enjoying Wanted! App?",
+            "title": "Enjoying The App?",
             "message": "Let us know how we're doing, and if there is something we can improve on. Tap here to give us a rating!",
             "priority": 4,
             "user_levels": [
@@ -161,51 +92,6 @@
             "local_notification": true,
             "is_alert": false,
             "additional_data": "rating"
-        },
-        {
-            "start_date": "2022-10-14 00:00:00",
-            "expiration_date": "2022-10-19 00:00:00",
-            "title": "Ready For Premium Status?",
-            "message": "Our Free Premium Days promotion runs the first week of every month where you can try out all app features!",
-            "priority": 5,
-            "user_levels": [
-                "developer",
-                "legacy",
-                "free"
-            ],
-            "market": [
-                "world"
-            ],
-            "url": "",
-            "icon": "workspace-premium",
-            "support_option": false,
-            "loading_screen": true,
-            "local_notification": false,
-            "is_alert": false,
-            "additional_data": "upgrade"
-        },
-        {
-            "start_date": "2022-10-14 00:00:00",
-            "expiration_date": "",
-            "title": "Fine Tune App Notifications",
-            "message": "Adjust alerts and notifications from the [Settings] tile on the side menu!",
-            "priority": 6,
-            "user_levels": [
-                "developer",
-                "premium",
-                "legacy",
-                "free"
-            ],
-            "market": [
-                "world"
-            ],
-            "url": "",
-            "icon": "notifications",
-            "support_option": false,
-            "loading_screen": true,
-            "local_notification": false,
-            "is_alert": false,
-            "additional_data": "notifications"
         },
         {
             "start_date": "2022-10-26 00:00:00",
