@@ -12,7 +12,6 @@
             "application": [
                 "congress_watcher",
                 "isrc_generator",
-                "wanted",
                 "scapegoats_website",
                 "mettacode_website"
             ],
