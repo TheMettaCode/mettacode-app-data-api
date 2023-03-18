@@ -10,7 +10,11 @@
             "priority": 0,
             "user_levels": [],
             "application": [
-                "isrc_generator"
+                "congress_watcher",
+                "isrc_generator",
+                "wanted",
+                "scapegoats_website",
+                "mettacode_website"
             ],
             "market": [
                 "google",
