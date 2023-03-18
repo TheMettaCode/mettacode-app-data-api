@@ -59,6 +59,9 @@
                 "legacy",
                 "free"
             ],
+            "application": [
+                "congress_watcher"
+            ],
             "market": [
                 "world"
             ],

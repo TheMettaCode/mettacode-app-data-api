@@ -1,26 +1,28 @@
 {
-    "app": "congress-watcher",
+    "name": "mettacode_notifications",
     "status": "OK",
     "notifications": [
         {
-            "start_date": "2023-01-08 00:00:00",
-            "expiration_date": "2023-01-15 00:00:00",
-            "title": "Congress In Transition",
-            "message": "Due to the Congressional transition from the 117th to 118th Congress. Some areas of the app may take some time to update or begin showing data. As new sessions begin, all areas will return.",
+            "start_date": "2023-03-16 00:00:00",
+            "expiration_date": "",
+            "title": "Test Alert",
+            "message": "This application is currently in Beta development. Please contact us to report any bugs.",
             "priority": 0,
-            "user_levels": [
-                "developer",
-                "premium",
-                "legacy",
-                "free"
+            "user_levels": [],
+            "application": [
+                "isrc_generator"
             ],
             "market": [
+                "google",
+                "web"
+            ],
+            "locality": [
                 "world"
             ],
             "url": "",
             "icon": "",
             "support_option": false,
-            "loading_screen": true,
+            "loading_screen": false,
             "local_notification": false,
             "is_alert": true,
             "additional_data": "alert"
@@ -28,16 +30,22 @@
         {
             "start_date": "2022-10-14 00:00:00",
             "expiration_date": "",
-            "title": "Share Congress Watcher App",
-            "message": "Get support credits when you share the Congress Watcher App with friends, family & colleagues.",
+            "title": "Share This App",
+            "message": "Get support credits when you share the app with friends, family & colleagues.",
             "priority": 3,
             "user_levels": [
                 "developer",
                 "premium",
-                "legacy",
                 "free"
             ],
+            "application": [
+                "congress_watcher"
+            ],
             "market": [
+                "google",
+                "web"
+            ],
+            "locality": [
                 "world"
             ],
             "url": "",
@@ -154,16 +162,20 @@
         {
             "start_date": "2022-10-14 00:00:00",
             "expiration_date": "",
-            "title": "Enjoying Congress Watcher App?",
+            "title": "Enjoying The App?",
             "message": "Let us know how we're doing, and if there is something we can improve on. Tap here to give us a rating!",
             "priority": 4,
-            "user_levels": [
-                "developer",
-                "premium",
-                "legacy",
-                "free"
+            "user_levels": [],
+            "application": [
+                "congress_watcher",
+                "isrc_generator",
+                "wanted"
             ],
             "market": [
+                "google",
+                "web"
+            ],
+            "locality": [
                 "world"
             ],
             "url": "",
@@ -231,13 +243,17 @@
             "title": "Developer Support Options",
             "message": "Developer support options can be found on our humble website. Tap here to view!",
             "priority": 9,
-            "user_levels": [
-                "developer",
-                "premium",
-                "legacy",
-                "free"
+            "user_levels": [],
+            "application": [
+                "congress_watcher",
+                "isrc_generator",
+                "wanted"
             ],
             "market": [
+                "google",
+                "web"
+            ],
+            "locality": [
                 "world"
             ],
             "url": "https://mettacode.dev",
@@ -257,7 +273,18 @@
             "user_levels": [
                 "developer"
             ],
-            "market": [],
+            "application": [
+                "congress_watcher",
+                "isrc_generator",
+                "wanted",
+                "scapegoats_website",
+                "mettacode_website"
+            ],
+            "market": [
+                "google",
+                "web"
+            ],
+            "locality": [],
             "url": "https://mettacode.dev",
             "icon": "developer-board",
             "support_option": false,
