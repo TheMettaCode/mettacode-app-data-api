@@ -8,7 +8,9 @@
             "title": "Test Alert",
             "message": "This application is currently in Beta development. Please contact us to report any bugs.",
             "priority": 0,
-            "user_levels": [],
+            "user_levels": [
+                "developer"
+            ],
             "application": [
                 "congress_watcher",
                 "scapegoats_website",
@@ -66,7 +68,6 @@
             "priority": 3,
             "user_levels": [
                 "developer",
-                "legacy",
                 "free"
             ],
             "application": [
@@ -92,7 +93,6 @@
             "user_levels": [
                 "developer",
                 "premium",
-                "legacy",
                 "free"
             ],
             "application": [
@@ -167,7 +167,11 @@
             "title": "Enjoying The App?",
             "message": "Let us know how we're doing, and if there is something we can improve on. Tap here to give us a rating!",
             "priority": 4,
-            "user_levels": [],
+            "user_levels": [
+                "developer",
+                "premium",
+                "free"
+            ],
             "application": [
                 "congress_watcher",
                 "isrc_generator",
@@ -196,7 +200,6 @@
             "priority": 5,
             "user_levels": [
                 "developer",
-                "legacy",
                 "free"
             ],
             "application": [
@@ -209,7 +212,7 @@
             "icon": "workspace-premium",
             "support_option": false,
             "loading_screen": true,
-            "local_notification": false,
+            "local_notification": true,
             "is_alert": false,
             "additional_data": "upgrade"
         },
@@ -222,7 +225,6 @@
             "user_levels": [
                 "developer",
                 "premium",
-                "legacy",
                 "free"
             ],
             "application": [
@@ -235,7 +237,7 @@
             "icon": "notifications",
             "support_option": false,
             "loading_screen": true,
-            "local_notification": false,
+            "local_notification": true,
             "is_alert": false,
             "additional_data": "notifications"
         },
@@ -245,7 +247,11 @@
             "title": "Developer Support Options",
             "message": "Developer support options can be found on our humble website. Tap here to view!",
             "priority": 9,
-            "user_levels": [],
+            "user_levels": [
+                "developer",
+                "premium",
+                "free"
+            ],
             "application": [
                 "congress_watcher",
                 "isrc_generator",
