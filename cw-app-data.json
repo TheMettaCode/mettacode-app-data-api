@@ -3,7 +3,7 @@
     "status": "OK",
     "notifications": [
         {
-            "start_date": "2023-01-08 00:00:00",
+            "start_date": "2023-03-24 00:00:00",
             "expiration_date": "",
             "title": "App Update Required",
             "message": "Your copy of the Congress Watcher App requires an update! Make sure to update to the latest version to stay up to date.",
