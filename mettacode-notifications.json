@@ -32,6 +32,34 @@
             "additional_data": "alert"
         },
         {
+            "start_date": "2023-04-05 00:00:00",
+            "expiration_date": "2023-04-05 00:00:00",
+            "title": "Google Play Ratings",
+            "message": "Congress Watcher only has a few ratings in the Play Store! If you are reading this and haven't already, please help our ratings score and take a moment to give us some ✭✭✭✭✭'s.",
+            "priority": 0,
+            "user_levels": [
+                "developer",
+                "premium",
+                "free"
+            ],
+            "application": [
+                "congress_watcher"
+            ],
+            "market": [
+                "google"
+            ],
+            "locality": [
+                "world"
+            ],
+            "url": "https://play.google.com/store/apps/details?id=com.watchtower.usa",
+            "icon": "star",
+            "support_option": false,
+            "loading_screen": false,
+            "local_notification": false,
+            "is_alert": true,
+            "additional_data": "alert"
+        },
+        {
             "start_date": "2022-10-14 00:00:00",
             "expiration_date": "",
             "title": "Share This App",
