@@ -5,6 +5,7 @@
         {
             "start_date": "2023-03-16 00:00:00",
             "expiration_date": "",
+            "is_active": false,
             "title": "Test Alert",
             "message": "This application is currently in Beta development. Please contact us to report any bugs.",
             "priority": 0,
@@ -33,7 +34,8 @@
         },
         {
             "start_date": "2023-04-05 00:00:00",
-            "expiration_date": "2023-04-15 00:00:00",
+            "expiration_date": "2023-04-29 00:00:00",
+            "is_active": true,
             "title": "Google Play Ratings",
             "message": "Congress Watcher only has a few ratings in the Play Store! If you are reading this and haven't already, please help our ratings score and take a moment to give us some ✭✭✭✭✭'s.",
             "priority": 0,
@@ -62,6 +64,7 @@
         {
             "start_date": "2022-10-14 00:00:00",
             "expiration_date": "",
+            "is_active": true,
             "title": "Share This App",
             "message": "Get support credits when you share the app with friends, family & colleagues.",
             "priority": 3,
@@ -91,6 +94,7 @@
         {
             "start_date": "2022-11-10 00:00:00",
             "expiration_date": "",
+            "is_active": true,
             "title": "More Points, More Privilege!",
             "message": "The more you use the app, the fewer ads you will see!",
             "priority": 3,
@@ -115,6 +119,7 @@
         {
             "start_date": "2022-10-14 00:00:00",
             "expiration_date": "",
+            "is_active": true,
             "title": "Purchase App Credits",
             "message": "Use your app credits to buy cool in-app merchandise.",
             "priority": 4,
@@ -140,6 +145,7 @@
         {
             "start_date": "2022-11-25 00:00:00",
             "expiration_date": "",
+            "is_active": true,
             "title": "More Activity, More Credits",
             "message": "App purchased credits are permanent. App usage credits decrease over time while not using the app. More activity, more credits!",
             "priority": 4,
@@ -166,6 +172,7 @@
         {
             "start_date": "2022-10-14 00:00:00",
             "expiration_date": "",
+            "is_active": true,
             "title": "Redeem Credits for Cool Merch",
             "message": "Trade in your credits and shop for cool products in the merch shop.",
             "priority": 4,
@@ -192,6 +199,7 @@
         {
             "start_date": "2022-10-14 00:00:00",
             "expiration_date": "",
+            "is_active": true,
             "title": "Enjoying The App?",
             "message": "Let us know how we're doing, and if there is something we can improve on. Tap here to give us a rating!",
             "priority": 4,
@@ -223,6 +231,7 @@
         {
             "start_date": "2022-10-14 00:00:00",
             "expiration_date": "2022-10-19 00:00:00",
+            "is_active": false,
             "title": "Ready For Premium Status?",
             "message": "Our Free Premium Days promotion runs the first week of every month where you can try out all app features!",
             "priority": 5,
@@ -247,6 +256,7 @@
         {
             "start_date": "2022-10-14 00:00:00",
             "expiration_date": "",
+            "is_active": true,
             "title": "Fine Tune App Notifications",
             "message": "Adjust alerts and notifications from the [Settings] tile on the side menu!",
             "priority": 6,
@@ -272,6 +282,7 @@
         {
             "start_date": "2022-10-26 00:00:00",
             "expiration_date": "",
+            "is_active": true,
             "title": "Developer Support Options",
             "message": "Developer support options can be found on our humble website. Tap here to view!",
             "priority": 9,
@@ -303,6 +314,7 @@
         {
             "start_date": "2022-10-27 00:00:00",
             "expiration_date": "",
+            "is_active": true,
             "title": "Hello World",
             "message": "Since you ARE MettaCode. Just sending a test",
             "priority": 10,
