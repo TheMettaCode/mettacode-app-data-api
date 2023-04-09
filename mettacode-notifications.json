@@ -31,7 +31,7 @@
             "support_option": false,
             "loading_screen": false,
             "local_notification": false,
-            "is_alert": true,
+            "is_alert": false,
             "additional_data": ""
         },
         {
