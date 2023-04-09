@@ -5,7 +5,7 @@
         {
             "start_date": "2023-03-16 00:00:00",
             "expiration_date": "",
-            "is_active": true,
+            "is_active": false,
             "title": "Test Alert",
             "message": "This application is currently in Beta development. Please contact us to report any bugs.",
             "priority": 0,
@@ -35,7 +35,7 @@
         {
             "start_date": "2023-04-05 00:00:00",
             "expiration_date": "2023-04-29 00:00:00",
-            "is_active": false,
+            "is_active": true,
             "title": "Google Play Rating",
             "message": "Congress Watcher only has a few ratings in the Play Store! If you are reading this and haven't already, please help our ratings score and take a moment to give us some ✭✭✭✭✭'s.",
             "priority": 0,
