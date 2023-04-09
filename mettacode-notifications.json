@@ -4,6 +4,38 @@
     "notifications": [
         {
             "start_date": "2023-03-16 00:00:00",
+            "expiration_date": "2023-03-16 05:00:00",
+            "is_active": false,
+            "title": "Dummy Notification",
+            "message": "This is a dummy notification for developer test purposes",
+            "priority": 0,
+            "user_levels": [
+                "developer",
+                "premium",
+                "free"
+            ],
+            "application": [
+                "congress_watcher",
+                "scapegoats_website",
+                "mettacode_website"
+            ],
+            "market": [
+                "google",
+                "web"
+            ],
+            "locality": [
+                "world"
+            ],
+            "url": "",
+            "icon": "",
+            "support_option": false,
+            "loading_screen": false,
+            "local_notification": false,
+            "is_alert": true,
+            "additional_data": ""
+        },
+        {
+            "start_date": "2023-03-16 00:00:00",
             "expiration_date": "",
             "is_active": false,
             "title": "Test Alert",
@@ -37,12 +69,11 @@
             "expiration_date": "2023-04-29 00:00:00",
             "is_active": true,
             "title": "Google Play Rating",
-            "message": "Congress Watcher only has a few ratings in the Play Store! If you are reading this and haven't already, please help our ratings score and take a moment to give us some ✭✭✭✭✭'s.",
+            "message": "Congress Watcher only has a few ratings in the Play Store! Give us your honest opinion and TAP HERE to give us some ✭✭✭✭✭'s.",
             "priority": 0,
             "user_levels": [
                 "developer",
-                "premium",
-                "free"
+                "premium"
             ],
             "application": [
                 "congress_watcher"
