@@ -1,23 +1,25 @@
 {
     "links": [
         {
-            "name_tag": "upc_generator",
-            "is_app": true,
-            "active": false,
-            "title": "UPC Code Generator",
-            "description": "Code generator for UPC codes.",
+            "name_tag": "grownhop",
+            "is_app": false,
+            "active": true,
+            "title": "GrownHop™ Music",
+            "description": "Official website for GrownHop Music.",
             "user_levels": [],
-            "market": [],
+            "market": [
+                "web"
+            ],
             "locality": [
                 "world"
             ],
             "google_play_url": "",
             "amazon_url": "",
-            "website_url": "",
+            "website_url": "https://themettacode.github.io/grownhop-web/",
             "apk_url": "",
-            "avatar_url": "",
+            "avatar_url": "https://github.com/TheMettaCode/grownhop-web/blob/main/assets/assets/app_icon.png",
             "icon": "",
-            "additional_data": "none"
+            "additional_data": ""
         },
         {
             "name_tag": "isrc_generator",
