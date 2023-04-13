@@ -2,7 +2,7 @@
     "links": [
         {
             "name_tag": "grownhop",
-            "is_app": false,
+            "is_app": true,
             "active": true,
             "title": "GrownHop™ Music",
             "description": "Official website for GrownHop Music.",
