@@ -1,25 +1,6 @@
 {
     "links": [
         {
-            "name_tag": "isrc_generator",
-            "is_app": true,
-            "active": false,
-            "title": "ISRC Generator",
-            "description": "Code generator for song ISRC codes.",
-            "user_levels": [],
-            "market": [],
-            "locality": [
-                "world"
-            ],
-            "google_play_url": "",
-            "amazon_url": "",
-            "website_url": "",
-            "apk_url": "",
-            "avatar_url": "",
-            "icon": "",
-            "additional_data": ""
-        },
-        {
             "name_tag": "blakloops",
             "is_app": true,
             "active": false,
@@ -45,7 +26,9 @@
             "title": "Congress Watcher",
             "description": "Keep track of US Congressional members, activities, bills, votes and more!.",
             "user_levels": [],
-            "market": [],
+            "market": [
+                "google"
+            ],
             "locality": [
                 "world"
             ],
@@ -54,6 +37,27 @@
             "website_url": "",
             "apk_url": "https://www.apkfiles.com/apk-611297/congress-watcher",
             "avatar_url": "https://play-lh.googleusercontent.com/Q9qcmAGNIa86x88658qD6WRQDwqBARMXkkOWPoDutizSLtPaXd0qL2KEAg-PpbtZUj4=w240-h480-rw",
+            "icon": "",
+            "additional_data": ""
+        },
+        {
+            "name_tag": "scapegoats_music",
+            "is_app": true,
+            "active": true,
+            "title": "SCAPEGOATS™ Music Services",
+            "description": "Providing publishing and release services to independent labels, recording artists and composers.",
+            "user_levels": [],
+            "market": [
+                "google"
+            ],
+            "locality": [
+                "usa"
+            ],
+            "google_play_url": "https://play.google.com/store/apps/details?id=com.scapegoats.music",
+            "amazon_url": "",
+            "website_url": "https://music.scapegoatsusa.com/",
+            "apk_url": "",
+            "avatar_url": "https://play-lh.googleusercontent.com/FDGmg-UzyqXmvZnvTBxbx5ZXzPXFth_ly523buBJYNIdc1qMcMIMfs0_zOLHZYl8DDwq=w240-h480-rw",
             "icon": "",
             "additional_data": ""
         },
@@ -118,27 +122,6 @@
             "apk_url": "",
             "avatar_url": "https://github.com/TheMettaCode/grownhop-web/blob/main/assets/assets/app_icon.png",
             "icon": "",
-            "additional_data": ""
-        },
-        {
-            "name_tag": "scapegoats_music",
-            "is_app": true,
-            "active": false,
-            "title": "SCAPEGOATS™ Music",
-            "description": "Official website for SCAPEGOATS™ Music",
-            "user_levels": [],
-            "market": [
-                "web"
-            ],
-            "locality": [
-                "world"
-            ],
-            "google_play_url": "",
-            "amazon_url": "",
-            "website_url": "https://music.scapegoatsusa.com/",
-            "apk_url": "",
-            "avatar_url": "https://pbs.twimg.com/profile_images/1522346739159556096/T4Af33yH_400x400.jpg",
-            "icon": "launch",
             "additional_data": ""
         },
         {
