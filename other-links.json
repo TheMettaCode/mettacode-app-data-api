@@ -48,7 +48,8 @@
             "description": "Providing publishing and release services to independent labels, recording artists and composers.",
             "user_levels": [],
             "market": [
-                "google"
+                "google",
+                "web"
             ],
             "locality": [
                 "usa"
@@ -107,8 +108,8 @@
             "name_tag": "grownhop",
             "is_app": true,
             "active": true,
-            "title": "GrownHop™ Music",
-            "description": "Official website for GrownHop Music.",
+            "title": "GrownHop™ Records",
+            "description": "Official website for GrownHop™ Records.",
             "user_levels": [],
             "market": [
                 "web"
