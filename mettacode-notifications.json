@@ -65,8 +65,8 @@
             "additional_data": ""
         },
         {
-            "start_date": "2023-04-05 00:00:00",
-            "expiration_date": "2023-04-29 00:00:00",
+            "start_date": "2023-05-07 00:00:00",
+            "expiration_date": "2023-05-31 00:00:00",
             "is_active": true,
             "title": "Google Play Rating",
             "message": "Congress Watcher only has a few ratings in the Play Store! Give us your honest opinion and TAP HERE to give us some ✭✭✭✭✭'s.",
@@ -240,7 +240,7 @@
             ],
             "application": [
                 "congress_watcher",
-                "isrc_generator",
+                "scapegoats_music",
                 "wanted"
             ],
             "market": [
@@ -323,7 +323,7 @@
             ],
             "application": [
                 "congress_watcher",
-                "isrc_generator",
+                "scapegoats_music",
                 "wanted"
             ],
             "market": [
@@ -353,7 +353,7 @@
             ],
             "application": [
                 "congress_watcher",
-                "isrc_generator",
+                "scapegoats_music",
                 "wanted",
                 "scapegoats_website",
                 "mettacode_website"
