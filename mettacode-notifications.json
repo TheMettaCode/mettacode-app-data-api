@@ -65,9 +65,39 @@
             "additional_data": ""
         },
         {
-            "start_date": "2023-05-07 00:00:00",
+            "start_date": "2023-05-25 00:00:00",
             "expiration_date": "2023-05-31 00:00:00",
             "is_active": true,
+            "title": "Slow App Response",
+            "message": "We are aware of slow response when loading some data, including votes and roll-calls. We are working on ways to address it. Thank you for your patience.",
+            "priority": 0,
+            "user_levels": [
+                "developer",
+                "premium",
+                "free",
+                "all"
+            ],
+            "application": [
+                "congress_watcher"
+            ],
+            "market": [
+                "google"
+            ],
+            "locality": [
+                "world"
+            ],
+            "url": "",
+            "icon": "star",
+            "support_option": false,
+            "loading_screen": false,
+            "local_notification": false,
+            "is_alert": true,
+            "additional_data": ""
+        },
+        {
+            "start_date": "2023-05-07 00:00:00",
+            "expiration_date": "2023-05-24 00:00:00",
+            "is_active": false,
             "title": "Google Play Rating",
             "message": "Congress Watcher only has a few ratings in the Play Store! Give us your honest opinion and TAP HERE to give us some ✭✭✭✭✭'s.",
             "priority": 0,
