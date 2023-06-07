@@ -32,6 +32,7 @@
             "loading_screen": false,
             "local_notification": false,
             "is_alert": false,
+            "is_popup": false,
             "additional_data": ""
         },
         {
@@ -62,6 +63,7 @@
             "loading_screen": false,
             "local_notification": false,
             "is_alert": true,
+            "is_popup": false,
             "additional_data": ""
         },
         {
@@ -92,6 +94,7 @@
             "loading_screen": false,
             "local_notification": false,
             "is_alert": true,
+            "is_popup": false,
             "additional_data": ""
         },
         {
@@ -119,6 +122,7 @@
             "loading_screen": false,
             "local_notification": false,
             "is_alert": true,
+            "is_popup": false,
             "additional_data": ""
         },
         {
@@ -149,6 +153,7 @@
             "loading_screen": true,
             "local_notification": true,
             "is_alert": false,
+            "is_popup": false,
             "additional_data": "share"
         },
         {
@@ -174,6 +179,7 @@
             "loading_screen": true,
             "local_notification": true,
             "is_alert": false,
+            "is_popup": false,
             "additional_data": "usage"
         },
         {
@@ -200,6 +206,7 @@
             "loading_screen": true,
             "local_notification": false,
             "is_alert": false,
+            "is_popup": false,
             "additional_data": "credits"
         },
         {
@@ -226,6 +233,7 @@
             "loading_screen": true,
             "local_notification": false,
             "is_alert": false,
+            "is_popup": false,
             "additional_data": "credits"
         },
         {
@@ -252,6 +260,7 @@
             "loading_screen": true,
             "local_notification": false,
             "is_alert": false,
+            "is_popup": false,
             "additional_data": "shop"
         },
         {
@@ -283,6 +292,7 @@
             "loading_screen": true,
             "local_notification": true,
             "is_alert": false,
+            "is_popup": false,
             "additional_data": "rating"
         },
         {
@@ -308,6 +318,7 @@
             "loading_screen": true,
             "local_notification": true,
             "is_alert": false,
+            "is_popup": false,
             "additional_data": "upgrade"
         },
         {
@@ -334,6 +345,7 @@
             "loading_screen": true,
             "local_notification": true,
             "is_alert": false,
+            "is_popup": false,
             "additional_data": "notifications"
         },
         {
@@ -365,6 +377,7 @@
             "loading_screen": true,
             "local_notification": false,
             "is_alert": false,
+            "is_popup": false,
             "additional_data": "support"
         },
         {
@@ -394,6 +407,7 @@
             "loading_screen": true,
             "local_notification": true,
             "is_alert": false,
+            "is_popup": false,
             "additional_data": "test"
         }
     ]
