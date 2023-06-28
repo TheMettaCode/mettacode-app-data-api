@@ -17,14 +17,24 @@
             "apk_url": "",
             "avatar_url": "https://pbs.twimg.com/profile_images/1610928065554833408/Y-WLCd_P_400x400.jpg",
             "icon": "",
-            "additional_data": ""
+            "additional_data": "",
+            "in_development": false,
+            "app_color": "0xFF000000",
+            "socials": {
+                "twitter": "https://www.twitter.com/blakloops/",
+                "instagram": "https://www.instagram.com/blakloops/",
+                "youtube": "",
+                "facebook": "",
+                "tiktok": "",
+                "rumble": ""
+            }
         },
         {
             "name_tag": "congress_watcher",
             "is_app": true,
             "active": true,
             "title": "Congress Watcher",
-            "description": "Keep track of US Congressional members, activities, bills, votes and more!.",
+            "description": "The Congress Watcher App provides up to date details on US Congressional members of the House and Senate. Join the US Congressional watch and keep an eye on elected officials and votes on bills currently active on the Senate and House floor. Includes member details and their voting record..",
             "user_levels": [],
             "market": [
                 "google"
@@ -38,7 +48,17 @@
             "apk_url": "https://www.apkfiles.com/apk-611297/congress-watcher",
             "avatar_url": "https://play-lh.googleusercontent.com/Q9qcmAGNIa86x88658qD6WRQDwqBARMXkkOWPoDutizSLtPaXd0qL2KEAg-PpbtZUj4=w240-h480-rw",
             "icon": "",
-            "additional_data": ""
+            "additional_data": "",
+            "in_development": false,
+            "app_color": "0xFF004E8D",
+            "socials": {
+                "twitter": "",
+                "instagram": "",
+                "youtube": "",
+                "facebook": "",
+                "tiktok": "",
+                "rumble": ""
+            }
         },
         {
             "name_tag": "scapegoats_music",
@@ -60,14 +80,24 @@
             "apk_url": "",
             "avatar_url": "https://play-lh.googleusercontent.com/FDGmg-UzyqXmvZnvTBxbx5ZXzPXFth_ly523buBJYNIdc1qMcMIMfs0_zOLHZYl8DDwq=w240-h480-rw",
             "icon": "",
-            "additional_data": ""
+            "additional_data": "",
+            "in_development": false,
+            "app_color": "0xFF5E4800",
+            "socials": {
+                "twitter": "",
+                "instagram": "",
+                "youtube": "",
+                "facebook": "",
+                "tiktok": "",
+                "rumble": ""
+            }
         },
         {
             "name_tag": "wanted",
             "is_app": true,
             "active": true,
             "title": "Wanted!",
-            "description": "Stay informed about fugitives wanted by the FBI. Including reward amounts.",
+            "description": "The Wanted! App provides up to date details on fugitives wanted by the FBI. Download the Wanted! app and find out who is on the run along with how much reward money the FBI is offering for information leading to an arrest!",
             "user_levels": [],
             "market": [
                 "google"
@@ -81,7 +111,17 @@
             "apk_url": "",
             "avatar_url": "https://play-lh.googleusercontent.com/pS-78xPIjSmQyyvOaM4PqPY0Unj7ATF-oUZ69xFSvjUsx--8B0EUO0pibsD6pdMrhg=w240-h480-rw",
             "icon": "",
-            "additional_data": ""
+            "additional_data": "",
+            "in_development": false,
+            "app_color": "0xFFC40D00",
+            "socials": {
+                "twitter": "",
+                "instagram": "",
+                "youtube": "",
+                "facebook": "",
+                "tiktok": "",
+                "rumble": ""
+            }
         },
         {
             "name_tag": "scapegoats_usa",
@@ -102,7 +142,17 @@
             "apk_url": "",
             "avatar_url": "https://d2j6dbq0eux0bg.cloudfront.net/images/70040555/3256697937.jpg",
             "icon": "launch",
-            "additional_data": ""
+            "additional_data": "",
+            "in_development": false,
+            "app_color": "0xFF000000",
+            "socials": {
+                "twitter": "https://www.twitter.com/scapegoatsusa/",
+                "instagram": "https://www.instagram.com/scapegoatsusa/",
+                "youtube": "",
+                "facebook": "",
+                "tiktok": "",
+                "rumble": ""
+            }
         },
         {
             "name_tag": "grownhop",
@@ -123,7 +173,17 @@
             "apk_url": "",
             "avatar_url": "https://www.grownhoprecords.com/splash/img/dark-3x.png",
             "icon": "",
-            "additional_data": ""
+            "additional_data": "",
+            "in_development": false,
+            "app_color": "0xFF00FF00",
+            "socials": {
+                "twitter": "https://www.twitter.com/grownhop",
+                "instagram": "https://www.instagram.com/kasilochoka",
+                "youtube": "",
+                "facebook": "",
+                "tiktok": "",
+                "rumble": ""
+            }
         },
         {
             "name_tag": "mettacode_dev_google_play",
@@ -142,7 +202,17 @@
             "apk_url": "",
             "avatar_url": "https://play-lh.googleusercontent.com/qdSRsLFfsFlKpNH0WGdt0H2RXgiaKWGj6272_zVsAzhoRbeJAhGJHqV-eoUDYjwlbt43=s94-rw",
             "icon": "",
-            "additional_data": ""
+            "additional_data": "",
+            "in_development": false,
+            "app_color": "0xFF000000",
+            "socials": {
+                "twitter": "",
+                "instagram": "",
+                "youtube": "",
+                "facebook": "",
+                "tiktok": "",
+                "rumble": ""
+            }
         },
         {
             "name_tag": "github",
@@ -161,7 +231,17 @@
             "apk_url": "",
             "avatar_url": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
             "icon": "",
-            "additional_data": ""
+            "additional_data": "",
+            "in_development": false,
+            "app_color": "0xFF000000",
+            "socials": {
+                "twitter": "",
+                "instagram": "",
+                "youtube": "",
+                "facebook": "",
+                "tiktok": "",
+                "rumble": ""
+            }
         },
         {
             "name_tag": "twitter",
@@ -180,7 +260,17 @@
             "apk_url": "",
             "avatar_url": "https://cdn.cms-twdigitalassets.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.2560.jpg",
             "icon": "",
-            "additional_data": ""
+            "additional_data": "",
+            "in_development": false,
+            "app_color": "0xFF000000",
+            "socials": {
+                "twitter": "",
+                "instagram": "",
+                "youtube": "",
+                "facebook": "",
+                "tiktok": "",
+                "rumble": ""
+            }
         }
     ]
 }
