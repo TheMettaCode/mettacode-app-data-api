@@ -1,35 +1,6 @@
 {
     "links": [
         {
-            "name_tag": "blakloops",
-            "is_app": true,
-            "active": false,
-            "title": "BLAKLOOPS™",
-            "description": "Original 8+ Bar music loops available in hi-fi mixed or multi-track format.",
-            "user_levels": [],
-            "market": [],
-            "locality": [
-                "world"
-            ],
-            "google_play_url": "",
-            "amazon_url": "",
-            "website_url": "https://instagram.com/blakloops",
-            "apk_url": "",
-            "avatar_url": "https://pbs.twimg.com/profile_images/1610928065554833408/Y-WLCd_P_400x400.jpg",
-            "icon": "",
-            "additional_data": "",
-            "in_development": false,
-            "app_color": "0xFF000000",
-            "socials": {
-                "twitter": "https://www.twitter.com/blakloops/",
-                "instagram": "https://www.instagram.com/blakloops/",
-                "youtube": "",
-                "facebook": "",
-                "tiktok": "",
-                "rumble": ""
-            }
-        },
-        {
             "name_tag": "congress_watcher",
             "is_app": true,
             "active": true,
@@ -77,14 +48,14 @@
             "google_play_url": "https://play.google.com/store/apps/details?id=com.scapegoats.music",
             "amazon_url": "",
             "website_url": "https://music.scapegoatsusa.com/",
-            "apk_url": "",
+            "apk_url": "https://www.apkfiles.com/apk-611721/scapegoats-music-services",
             "avatar_url": "https://play-lh.googleusercontent.com/FDGmg-UzyqXmvZnvTBxbx5ZXzPXFth_ly523buBJYNIdc1qMcMIMfs0_zOLHZYl8DDwq=w240-h480-rw",
             "icon": "",
             "additional_data": "",
             "in_development": false,
             "app_color": "0xFF5E4800",
             "socials": {
-                "twitter": "",
+                "twitter": "https://www.twitter.com/scapegoatsusa",
                 "instagram": "",
                 "youtube": "",
                 "facebook": "",
@@ -167,7 +138,7 @@
             "locality": [
                 "world"
             ],
-            "google_play_url": "",
+            "google_play_url": "https://play.google.com/store/apps/details?id=com.grownhop.music",
             "amazon_url": "",
             "website_url": "https://grownhoprecords.com",
             "apk_url": "",
@@ -179,6 +150,72 @@
             "socials": {
                 "twitter": "https://www.twitter.com/grownhop",
                 "instagram": "https://www.instagram.com/kasilochoka",
+                "youtube": "",
+                "facebook": "",
+                "tiktok": "",
+                "rumble": ""
+            }
+        },
+        {
+            "name_tag": "blakloops",
+            "is_app": true,
+            "active": false,
+            "title": "BLAKLOOPS™",
+            "description": "Original 8+ Bar music loops available in hi-fi mixed or multi-track format.",
+            "user_levels": [],
+            "market": [
+                "google",
+                "web",
+                "windows"
+            ],
+            "locality": [
+                "world"
+            ],
+            "google_play_url": "",
+            "amazon_url": "",
+            "website_url": "https://instagram.com/blakloops",
+            "apk_url": "",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1610928065554833408/Y-WLCd_P_400x400.jpg",
+            "icon": "",
+            "additional_data": "",
+            "in_development": false,
+            "app_color": "0xFF000000",
+            "socials": {
+                "twitter": "https://www.twitter.com/blakloops/",
+                "instagram": "https://www.instagram.com/blakloops/",
+                "youtube": "",
+                "facebook": "",
+                "tiktok": "",
+                "rumble": ""
+            }
+        },
+        {
+            "name_tag": "bountyfulworld",
+            "is_app": true,
+            "active": false,
+            "title": "Bountyful World Market",
+            "description": "Bringing a bountyful world of opportunities. Facilitating your search for all things unique and elusive, large and small.",
+            "user_levels": [],
+            "market": [
+                "google",
+                "web",
+                "windows"
+            ],
+            "locality": [
+                "world"
+            ],
+            "google_play_url": "",
+            "amazon_url": "",
+            "website_url": "https://bountyfulworld.com",
+            "apk_url": "",
+            "avatar_url": "https://bountyfulworld.com/splash/img/dark-1x.png",
+            "icon": "",
+            "additional_data": "",
+            "in_development": false,
+            "app_color": "0xFF1b1b1b",
+            "socials": {
+                "twitter": "https://www.twitter.com/bountyfulworld/",
+                "instagram": "",
                 "youtube": "",
                 "facebook": "",
                 "tiktok": "",
