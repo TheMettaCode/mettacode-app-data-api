@@ -192,7 +192,7 @@
         {
             "name_tag": "bountyfulworld",
             "is_app": true,
-            "active": false,
+            "active": true,
             "title": "Bountyful World Market",
             "description": "Bringing a bountyful world of opportunities. Facilitating your search for all things unique and elusive, large and small.",
             "user_levels": [],
