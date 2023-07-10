@@ -2,6 +2,7 @@
     "links": [
         {
             "name_tag": "congress_watcher",
+            "priority": 0,
             "is_app": true,
             "active": true,
             "title": "Congress Watcher",
@@ -33,6 +34,7 @@
         },
         {
             "name_tag": "scapegoats_music",
+            "priority": 1,
             "is_app": true,
             "active": true,
             "title": "SCAPEGOATS™ Music Services",
@@ -65,6 +67,7 @@
         },
         {
             "name_tag": "wanted",
+            "priority": 5,
             "is_app": true,
             "active": true,
             "title": "Wanted!",
@@ -96,6 +99,7 @@
         },
         {
             "name_tag": "scapegoats_usa",
+            "priority": 2,
             "is_app": true,
             "active": true,
             "title": "SCAPEGOATS™ Apparel",
@@ -127,6 +131,7 @@
         },
         {
             "name_tag": "grownhop",
+            "priority": 3,
             "is_app": true,
             "active": true,
             "title": "GrownHop™ Records",
@@ -158,6 +163,7 @@
         },
         {
             "name_tag": "blakloops",
+            "priority": 4,
             "is_app": true,
             "active": false,
             "title": "BLAKLOOPS™",
@@ -191,6 +197,7 @@
         },
         {
             "name_tag": "bountyfulworld",
+            "priority": 5,
             "is_app": true,
             "active": true,
             "title": "Bountyful World Market",
@@ -224,6 +231,7 @@
         },
         {
             "name_tag": "mettacode_dev_google_play",
+            "priority": 100,
             "is_app": false,
             "active": true,
             "title": "MettaCode GPlay",
@@ -253,6 +261,7 @@
         },
         {
             "name_tag": "github",
+            "priority": 100,
             "is_app": false,
             "active": true,
             "title": "MettaCode GitHub",
@@ -282,6 +291,7 @@
         },
         {
             "name_tag": "twitter",
+            "priority": 100,
             "is_app": false,
             "active": true,
             "title": "MettaCode Twitter",
