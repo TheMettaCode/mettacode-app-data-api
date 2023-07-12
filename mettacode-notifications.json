@@ -12,7 +12,8 @@
             "user_levels": [
                 "developer",
                 "premium",
-                "free"
+                "free",
+                "all"
             ],
             "application": [
                 "congress_watcher",
@@ -67,17 +68,15 @@
             "additional_data": ""
         },
         {
-            "start_date": "2023-05-30 00:00:00",
-            "expiration_date": "2023-06-15 00:00:00",
+            "start_date": "2023-07-10 00:00:00",
+            "expiration_date": "2023-07-31 00:00:00",
             "is_active": true,
-            "title": "Slow App Response",
-            "message": "We have made several updates to address the app data slow/no load issue. Make sure you update to the latest version. We are continuing work on ways to address it. Thank you for your patience.",
+            "title": "Market Activity Updates",
+            "message": "We are aware of the market trade alerts for premium users. We are currently working towards a solution. Thank you for your patience.",
             "priority": 0,
             "user_levels": [
                 "developer",
-                "premium",
-                "free",
-                "all"
+                "premium"
             ],
             "application": [
                 "congress_watcher"
