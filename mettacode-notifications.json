@@ -17,11 +17,16 @@
             ],
             "application": [
                 "congress_watcher",
+                "wanted",
+                "grownhop",
                 "scapegoats_website",
-                "mettacode_website"
+                "mettacode_website",
+                "scapegoats_music",
+                "bountyful_world"
             ],
             "market": [
                 "google",
+                "windows",
                 "web"
             ],
             "locality": [
@@ -47,9 +52,11 @@
                 "developer"
             ],
             "application": [
-                "congress_watcher",
+                "grownhop",
                 "scapegoats_website",
-                "mettacode_website"
+                "mettacode_website",
+                "scapegoats_music",
+                "bountyful_world"
             ],
             "market": [
                 "google",
