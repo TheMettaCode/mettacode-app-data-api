@@ -72,7 +72,7 @@
             "expiration_date": "2023-07-31 00:00:00",
             "is_active": true,
             "title": "Market Activity Updates",
-            "message": "We are aware of the market trade alerts for premium users. We are currently working towards a solution. Thank you for your patience.",
+            "message": "We are aware of market trade alert issues for premium users. We are currently working towards a solution. Thank you for your patience.",
             "priority": 0,
             "user_levels": [
                 "developer",
