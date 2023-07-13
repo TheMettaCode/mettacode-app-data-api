@@ -176,6 +176,9 @@
             "market": [
                 "world"
             ],
+            "locality": [
+                "world"
+            ],
             "url": "",
             "icon": "",
             "support_option": false,
@@ -202,6 +205,9 @@
             ],
             "market": [
                 "usa"
+            ],
+            "locality": [
+                "world"
             ],
             "url": "",
             "icon": "coins",
@@ -230,6 +236,9 @@
             "market": [
                 "world"
             ],
+            "locality": [
+                "world"
+            ],
             "url": "",
             "icon": "coins",
             "support_option": false,
@@ -256,6 +265,9 @@
             ],
             "market": [
                 "usa"
+            ],
+            "locality": [
+                "world"
             ],
             "url": "",
             "icon": "store",
@@ -315,6 +327,9 @@
             "market": [
                 "world"
             ],
+            "locality": [
+                "world"
+            ],
             "url": "",
             "icon": "workspace-premium",
             "support_option": false,
@@ -340,6 +355,9 @@
                 "congress_watcher"
             ],
             "market": [
+                "world"
+            ],
+            "locality": [
                 "world"
             ],
             "url": "",
