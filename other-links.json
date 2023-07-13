@@ -196,7 +196,7 @@
             }
         },
         {
-            "name_tag": "bountyfulworld",
+            "name_tag": "bountyful_world",
             "priority": 5,
             "is_app": true,
             "active": true,
