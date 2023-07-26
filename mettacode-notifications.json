@@ -75,7 +75,7 @@
             "expiration_date": "2023-08-01 00:00:00",
             "is_active": true,
             "title": "Upadate Available",
-            "message": "This application has recently been updated. If something just doesn't see right, make sure you have the latest version!",
+            "message": "This application has recently been updated. If something just doesn't seem right, make sure you have the latest version!",
             "priority": 0,
             "user_levels": [],
             "application": [
@@ -92,7 +92,7 @@
             "url": "https://music.scapegoats.com",
             "icon": "",
             "support_option": false,
-            "loading_screen": true,
+            "loading_screen": false,
             "local_notification": false,
             "is_alert": true,
             "is_popup": false,
