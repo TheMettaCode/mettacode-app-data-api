@@ -71,6 +71,34 @@
             "additional_data": ""
         },
         {
+            "start_date": "2023-07-24 00:00:00",
+            "expiration_date": "2023-08-01 00:00:00",
+            "is_active": true,
+            "title": "Upadate Available",
+            "message": "This application has recently been updated. If something just doesn't see right, make sure you have the latest version!",
+            "priority": 0,
+            "user_levels": [],
+            "application": [
+                "scapegoats_music"
+            ],
+            "market": [
+                "google",
+                "apk",
+                "web"
+            ],
+            "locality": [
+                "world"
+            ],
+            "url": "https://music.scapegoats.com",
+            "icon": "",
+            "support_option": false,
+            "loading_screen": true,
+            "local_notification": false,
+            "is_alert": true,
+            "is_popup": false,
+            "additional_data": ""
+        },
+        {
             "start_date": "2023-07-10 00:00:00",
             "expiration_date": "2023-07-31 00:00:00",
             "is_active": true,
