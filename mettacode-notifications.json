@@ -21,7 +21,9 @@
                 "grownhop",
                 "scapegoats_website",
                 "mettacode_website",
+                "scapegoats_usa",
                 "scapegoats_music",
+                "scapegoats_apparel",
                 "bountyful_world"
             ],
             "market": [
@@ -52,7 +54,8 @@
                 "developer"
             ],
             "application": [
-                "bountyful_world"
+                "bountyful_world",
+                "scapegoats_apparel"
             ],
             "market": [
                 "google",
