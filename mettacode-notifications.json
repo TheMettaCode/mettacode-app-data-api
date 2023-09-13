@@ -46,7 +46,7 @@
         {
             "start_date": "2023-03-16 00:00:00",
             "expiration_date": "",
-            "is_active": false,
+            "is_active": true,
             "title": "Test Alert",
             "message": "This application is currently in Beta development. Please contact us to report any bugs.",
             "priority": 0,
@@ -54,8 +54,7 @@
                 "developer"
             ],
             "application": [
-                "bountyful_world",
-                "scapegoats_apparel"
+                "bountyful_world"
             ],
             "market": [
                 "google",
@@ -76,7 +75,7 @@
         {
             "start_date": "2023-07-24 00:00:00",
             "expiration_date": "2023-08-01 00:00:00",
-            "is_active": true,
+            "is_active": false,
             "title": "Upadate Available",
             "message": "This application has recently been updated. If something just doesn't seem right, make sure you have the latest version!",
             "priority": 0,
@@ -104,7 +103,7 @@
         {
             "start_date": "2023-07-10 00:00:00",
             "expiration_date": "2023-07-31 00:00:00",
-            "is_active": true,
+            "is_active": false,
             "title": "Market Activity Updates",
             "message": "We are aware of market trade alert issues for premium users. We are currently working towards a solution. Thank you for your patience.",
             "priority": 0,
@@ -163,7 +162,7 @@
             "expiration_date": "",
             "is_active": true,
             "title": "Share This App",
-            "message": "Get support credits when you share the app with friends, family & colleagues.",
+            "message": "Get credits when you share the app with friends, family & colleagues.",
             "priority": 3,
             "user_levels": [
                 "developer",
@@ -251,7 +250,7 @@
         {
             "start_date": "2022-11-25 00:00:00",
             "expiration_date": "",
-            "is_active": true,
+            "is_active": false,
             "title": "More Activity, More Credits",
             "message": "App purchased credits are permanent. App usage credits decrease over time while not using the app. More activity, more credits!",
             "priority": 4,
@@ -281,7 +280,7 @@
         {
             "start_date": "2022-10-14 00:00:00",
             "expiration_date": "",
-            "is_active": true,
+            "is_active": false,
             "title": "Redeem Credits for Cool Merch",
             "message": "Trade in your credits and shop for cool products in the merch shop.",
             "priority": 4,
@@ -311,7 +310,7 @@
         {
             "start_date": "2022-10-14 00:00:00",
             "expiration_date": "",
-            "is_active": true,
+            "is_active": false,
             "title": "Enjoying The App?",
             "message": "Let us know how we're doing, and if there is something we can improve on. Tap here to give us a rating!",
             "priority": 4,
