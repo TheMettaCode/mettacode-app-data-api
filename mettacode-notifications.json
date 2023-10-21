@@ -220,7 +220,7 @@
         {
             "start_date": "2022-10-14 00:00:00",
             "expiration_date": "",
-            "is_active": true,
+            "is_active": false,
             "title": "Purchase App Credits",
             "message": "Use your app credits to buy cool in-app merchandise.",
             "priority": 4,
