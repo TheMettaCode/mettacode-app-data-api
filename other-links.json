@@ -33,40 +33,6 @@
             }
         },
         {
-            "name_tag": "scapegoats_music",
-            "priority": 1,
-            "is_app": true,
-            "active": true,
-            "title": "SCAPEGOATS™ Music Services",
-            "description": "Providing publishing and release services to independent labels, recording artists and composers.",
-            "user_levels": [],
-            "market": [
-                "google",
-                "apk",
-                "web"
-            ],
-            "locality": [
-                "usa"
-            ],
-            "google_play_url": "https://play.google.com/store/apps/details?id=com.scapegoats.music",
-            "amazon_url": "",
-            "website_url": "https://music.scapegoatsusa.com/",
-            "apk_url": "https://www.apkfiles.com/apk-611721/scapegoats-music-services",
-            "avatar_url": "https://play-lh.googleusercontent.com/FDGmg-UzyqXmvZnvTBxbx5ZXzPXFth_ly523buBJYNIdc1qMcMIMfs0_zOLHZYl8DDwq=w240-h480-rw",
-            "icon": "",
-            "additional_data": "",
-            "in_development": false,
-            "app_color": "0xFF5E4800",
-            "socials": {
-                "twitter": "https://www.x.com/scapegoatsusa",
-                "instagram": "",
-                "youtube": "",
-                "facebook": "",
-                "tiktok": "",
-                "rumble": ""
-            }
-        },
-        {
             "name_tag": "wanted",
             "priority": 5,
             "is_app": true,
@@ -99,6 +65,41 @@
             }
         },
         {
+            "name_tag": "scapegoats_music",
+            "priority": 1,
+            "is_app": true,
+            "active": true,
+            "title": "SCAPEGOATS™ Music Services",
+            "description": "Providing publishing and release services to independent labels, recording artists and composers.",
+            "user_levels": [],
+            "market": [
+                "google",
+                "apk",
+                "web",
+                "windows"
+            ],
+            "locality": [
+                "usa"
+            ],
+            "google_play_url": "https://play.google.com/store/apps/details?id=com.scapegoats.music",
+            "amazon_url": "",
+            "website_url": "https://music.scapegoatsusa.com/",
+            "apk_url": "https://www.apkfiles.com/apk-611721/scapegoats-music-services",
+            "avatar_url": "https://play-lh.googleusercontent.com/FDGmg-UzyqXmvZnvTBxbx5ZXzPXFth_ly523buBJYNIdc1qMcMIMfs0_zOLHZYl8DDwq=w240-h480-rw",
+            "icon": "",
+            "additional_data": "",
+            "in_development": false,
+            "app_color": "0xFF5E4800",
+            "socials": {
+                "twitter": "https://www.x.com/scapegoatsusa",
+                "instagram": "https://www.instagram.com/scapegoatsusa/",
+                "youtube": "",
+                "facebook": "",
+                "tiktok": "",
+                "rumble": ""
+            }
+        },
+        {
             "name_tag": "scapegoats_apparel",
             "priority": 2,
             "is_app": true,
@@ -107,7 +108,10 @@
             "description": "Apparel and products for those who take the blame.",
             "user_levels": [],
             "market": [
-                "web"
+                "web",
+                "apk",
+                "google",
+                "windows"
             ],
             "locality": [
                 "world"
@@ -115,7 +119,7 @@
             "google_play_url": "",
             "amazon_url": "",
             "website_url": "https://apparel.scapegoatsusa.com/",
-            "apk_url": "",
+            "apk_url": "https://www.apkfiles.com/apk-612385/scapegoats-apparel",
             "avatar_url": "https://play-lh.googleusercontent.com/YadbqRY2GvkB0L1yy8mkw6FSnGxv2bltiNmaJ_kuJ1CUoKAAessdod2UD_mT4sjJYbY=w240-h480-rw",
             "icon": "launch",
             "additional_data": "",
