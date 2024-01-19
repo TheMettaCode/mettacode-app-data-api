@@ -73,34 +73,6 @@
             "additional_data": ""
         },
         {
-            "start_date": "2023-07-24 00:00:00",
-            "expiration_date": "2023-08-01 00:00:00",
-            "is_active": false,
-            "title": "Upadate Available",
-            "message": "This application has recently been updated. If something just doesn't seem right, make sure you have the latest version!",
-            "priority": 0,
-            "user_levels": [],
-            "application": [
-                "scapegoats_music"
-            ],
-            "market": [
-                "google",
-                "apk",
-                "web"
-            ],
-            "locality": [
-                "world"
-            ],
-            "url": "https://music.scapegoats.com",
-            "icon": "",
-            "support_option": false,
-            "loading_screen": false,
-            "local_notification": false,
-            "is_alert": true,
-            "is_popup": false,
-            "additional_data": ""
-        },
-        {
             "start_date": "2023-07-10 00:00:00",
             "expiration_date": "2023-07-31 00:00:00",
             "is_active": false,
@@ -191,7 +163,7 @@
         {
             "start_date": "2022-11-10 00:00:00",
             "expiration_date": "",
-            "is_active": true,
+            "is_active": false,
             "title": "More Points, More Privilege!",
             "message": "The more you use the app, the fewer ads you will see!",
             "priority": 3,
@@ -401,7 +373,7 @@
         {
             "start_date": "2022-10-26 00:00:00",
             "expiration_date": "",
-            "is_active": true,
+            "is_active": false,
             "title": "Developer Support Options",
             "message": "Developer support options can be found on our humble website. Tap here to view!",
             "priority": 9,
@@ -433,7 +405,7 @@
         {
             "start_date": "2022-10-27 00:00:00",
             "expiration_date": "",
-            "is_active": true,
+            "is_active": false,
             "title": "Hello World",
             "message": "Since you ARE MettaCode. Just sending a test",
             "priority": 10,
