@@ -1,0 +1,44 @@
+{
+    "name": "ad_creatives",
+    "status": "OK",
+    "creatives": [
+        {
+            "client_name": "mettacode",
+            "client_id": "240127",
+            "client_description": "Parent Company",
+            "client_internal_notes": "",
+            "start_date": "2023-03-16 00:00:00",
+            "expiration_date": null,
+            "is_active": false,
+            "title": "MettaCode Brand Banner",
+            "alt_text": "MettaCode Developers",
+            "frequency_priority": 0,
+            "duration_in_days": null,
+            "applications": [
+                "congress_watcher",
+                "wanted",
+                "grownhop",
+                "scapegoats_website",
+                "mettacode_website",
+                "scapegoats_usa",
+                "scapegoats_music",
+                "scapegoats_apparel",
+                "bountyful_world",
+                "blakloops"
+            ],
+            "markets": [
+                "mobile",
+                "desktop",
+                "web"
+            ],
+            "locality": [
+                "world",
+                "country",
+                "region",
+                "state",
+                "city"
+            ],
+            "creative_url": "https://www.dropbox.com/scl/fi/wbcgnwpjompxer938b3ex/mettacode_brand_banner_250x62.png?rlkey=2cp7mgm0np33tabs7z4pioifv&raw=1"
+        }
+    ]
+}
