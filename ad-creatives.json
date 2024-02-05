@@ -42,10 +42,8 @@
             "creative_height": 62,
             "creative_width": 250,
             "link_url": "https://mettacode.dev"
-        }
-    ]
-},
-{
+        },
+        {
             "client_name": "scapegoats",
             "client_id": "240205",
             "client_description": "SCAPEGOATS Apparel Website",
@@ -88,4 +86,3 @@
         }
     ]
 }
-
