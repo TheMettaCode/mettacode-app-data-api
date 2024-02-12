@@ -268,7 +268,8 @@
                 "world"
             ],
             "privacy_policy": "",
-            "advertising_policy": "",
+            "mobile_advertising_policy": "",
+            "web_advertising_policy": "",
             "google_play_url": "https://play.google.com/store/apps/dev?id=8815266571161032386",
             "amazon_url": "",
             "website_url": "https://play.google.com/store/apps/dev?id=8815266571161032386",
@@ -300,7 +301,8 @@
                 "world"
             ],
             "privacy_policy": "",
-            "advertising_policy": "",
+            "mobile_advertising_policy": "",
+            "web_advertising_policy": "",
             "google_play_url": "",
             "amazon_url": "",
             "website_url": "https://github.com/TheMettaCode",
@@ -332,7 +334,8 @@
                 "world"
             ],
             "privacy_policy": "",
-            "advertising_policy": "",
+            "mobile_advertising_policy": "",
+            "web_advertising_policy": "",
             "google_play_url": "",
             "amazon_url": "",
             "website_url": "https://twitter.com/mettacodedev",
