@@ -14,6 +14,9 @@
             "locality": [
                 "world"
             ],
+            "privacy_policy": "",
+            "mobile_advertising_policy": "https://www.applovin.com/privacy/",
+            "web_advertising_policy": "",
             "google_play_url": "https://play.google.com/store/apps/details?id=com.watchtower.usa",
             "amazon_url": "",
             "website_url": "",
@@ -46,6 +49,9 @@
             "locality": [
                 "world"
             ],
+            "privacy_policy": "",
+            "mobile_advertising_policy": "https://www.applovin.com/privacy/",
+            "web_advertising_policy": "",
             "google_play_url": "https://play.google.com/store/apps/details?id=com.mettacode.badguy",
             "amazon_url": "",
             "website_url": "",
@@ -81,6 +87,9 @@
             "locality": [
                 "usa"
             ],
+            "privacy_policy": "https://www.privacypolicies.com/live/6258d34b-2763-4221-bd7e-3f2abe345113",
+            "mobile_advertising_policy": "https://www.applovin.com/privacy/",
+            "web_advertising_policy": "",
             "google_play_url": "https://play.google.com/store/apps/details?id=com.scapegoats.music",
             "amazon_url": "",
             "website_url": "https://music.scapegoatsusa.com/",
@@ -116,6 +125,9 @@
             "locality": [
                 "world"
             ],
+            "privacy_policy": "",
+            "mobile_advertising_policy": "https://www.applovin.com/privacy/",
+            "web_advertising_policy": "",
             "google_play_url": "",
             "amazon_url": "",
             "website_url": "https://apparel.scapegoatsusa.com/",
@@ -148,6 +160,9 @@
             "locality": [
                 "world"
             ],
+            "privacy_policy": "",
+            "mobile_advertising_policy": "https://www.applovin.com/privacy/",
+            "web_advertising_policy": "",
             "google_play_url": "",
             "amazon_url": "",
             "website_url": "https://grownhoprecords.com",
@@ -182,6 +197,9 @@
             "locality": [
                 "world"
             ],
+            "privacy_policy": "",
+            "mobile_advertising_policy": "https://www.applovin.com/privacy/",
+            "web_advertising_policy": "",
             "google_play_url": "",
             "amazon_url": "",
             "website_url": "https://instagram.com/blakloops",
@@ -216,6 +234,9 @@
             "locality": [
                 "world"
             ],
+            "privacy_policy": "",
+            "mobile_advertising_policy": "https://www.applovin.com/privacy/",
+            "web_advertising_policy": "",
             "google_play_url": "",
             "amazon_url": "",
             "website_url": "https://bountyfulworld.com",
@@ -246,6 +267,8 @@
             "locality": [
                 "world"
             ],
+            "privacy_policy": "",
+            "advertising_policy": "",
             "google_play_url": "https://play.google.com/store/apps/dev?id=8815266571161032386",
             "amazon_url": "",
             "website_url": "https://play.google.com/store/apps/dev?id=8815266571161032386",
@@ -276,6 +299,8 @@
             "locality": [
                 "world"
             ],
+            "privacy_policy": "",
+            "advertising_policy": "",
             "google_play_url": "",
             "amazon_url": "",
             "website_url": "https://github.com/TheMettaCode",
@@ -306,6 +331,8 @@
             "locality": [
                 "world"
             ],
+            "privacy_policy": "",
+            "advertising_policy": "",
             "google_play_url": "",
             "amazon_url": "",
             "website_url": "https://twitter.com/mettacodedev",
