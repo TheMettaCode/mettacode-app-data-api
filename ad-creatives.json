@@ -82,6 +82,46 @@
             "creative_height": 368,
             "creative_width": 1920,
             "link_url": "https://apparel.scapegoatsusa.com"
+        },
+        {
+            "client_name": "scapegoats",
+            "client_id": "240205",
+            "client_description": "SCAPEGOATS Music Website",
+            "client_internal_notes": "",
+            "start_date": "2023-03-16 00:00:00",
+            "expiration_date": null,
+            "is_active": true,
+            "title": "SCAPEGOATS Music Info Banner",
+            "alt_text": "SCAPEGOATS Music",
+            "frequency_priority": 0,
+            "duration_in_days": null,
+            "applications": [
+                "congress_watcher",
+                "wanted",
+                "grownhop",
+                "scapegoats_website",
+                "mettacode_website",
+                "scapegoats_usa",
+                "scapegoats_apparel",
+                "bountyful_world",
+                "blakloops"
+            ],
+            "markets": [
+                "mobile",
+                "desktop",
+                "web"
+            ],
+            "locality": [
+                "world",
+                "country",
+                "region",
+                "state",
+                "city"
+            ],
+            "creative_url": "https://www.dropbox.com/scl/fi/83vsjfkqy59k576k1i6xf/sgm_info_banner_ad_526x88.png?rlkey=mbypt62z7yo69g0f28edv4owf&raw=1",
+            "creative_height": 88,
+            "creative_width": 526,
+            "link_url": "https://music.scapegoatsusa.com"
         }
     ]
 }
