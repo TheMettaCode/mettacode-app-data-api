@@ -81,6 +81,7 @@
             "priority": 0,
             "user_levels": [
                 "free",
+                "legacy",
                 "developer",
                 "premium"
             ],
