@@ -73,13 +73,14 @@
             "additional_data": ""
         },
         {
-            "start_date": "2023-07-10 00:00:00",
-            "expiration_date": "2023-07-31 00:00:00",
-            "is_active": false,
-            "title": "Market Activity Updates",
-            "message": "We are aware of market trade alert issues for premium users. We are currently working towards a solution. Thank you for your patience.",
+            "start_date": "2024-03-17 00:00:00",
+            "expiration_date": "2024-03-19 00:00:00",
+            "is_active": true,
+            "title": "Loading Error Update",
+            "message": "We are aware app loading issues. A solution will be implemented in the next version update. Thank you for your patience.",
             "priority": 0,
             "user_levels": [
+                "free",
                 "developer",
                 "premium"
             ],
