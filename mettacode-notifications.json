@@ -75,7 +75,7 @@
         {
             "start_date": "2024-03-17 00:00:00",
             "expiration_date": "2024-03-19 00:00:00",
-            "is_active": true,
+            "is_active": false,
             "title": "App Not Loading?",
             "message": "We are aware app loading issues. A solution is implemented in the next version update. We will notify you when available. Thank you for your patience.",
             "priority": 0,
@@ -104,13 +104,16 @@
             "additional_data": ""
         },
         {
-            "start_date": "2023-05-07 00:00:00",
-            "expiration_date": "2023-05-24 00:00:00",
-            "is_active": false,
+            "start_date": "2024-03-24 00:00:00",
+            "expiration_date": "2024-03-31 00:00:00",
+            "is_active": true,
             "title": "Google Play Rating",
             "message": "Congress Watcher only has a few ratings in the Play Store! Give us your honest opinion and TAP HERE to give us some ✭✭✭✭✭'s.",
             "priority": 0,
             "user_levels": [
+                "free",
+                "legacy",
+                "developer",
                 "premium"
             ],
             "application": [
@@ -125,7 +128,7 @@
             "url": "https://play.google.com/store/apps/details?id=com.watchtower.usa",
             "icon": "star",
             "support_option": false,
-            "loading_screen": false,
+            "loading_screen": true,
             "local_notification": false,
             "is_alert": true,
             "is_popup": false,
@@ -136,7 +139,7 @@
             "expiration_date": "",
             "is_active": true,
             "title": "Share This App",
-            "message": "Get credits when you share the app with friends, family & colleagues.",
+            "message": "Get credits when you share the app with friends, family & colleagues. The more credits you have, the fewer ads you'll see!",
             "priority": 3,
             "user_levels": [
                 "developer",
@@ -157,7 +160,7 @@
             "icon": "handshake",
             "support_option": true,
             "loading_screen": true,
-            "local_notification": true,
+            "local_notification": false,
             "is_alert": false,
             "is_popup": false,
             "additional_data": "share"
@@ -195,96 +198,6 @@
             "start_date": "2022-10-14 00:00:00",
             "expiration_date": "",
             "is_active": false,
-            "title": "Purchase App Credits",
-            "message": "Use your app credits to buy cool in-app merchandise.",
-            "priority": 4,
-            "user_levels": [
-                "developer",
-                "premium",
-                "free"
-            ],
-            "application": [
-                "congress_watcher"
-            ],
-            "market": [
-                "usa"
-            ],
-            "locality": [
-                "world"
-            ],
-            "url": "",
-            "icon": "coins",
-            "support_option": true,
-            "loading_screen": true,
-            "local_notification": false,
-            "is_alert": false,
-            "is_popup": false,
-            "additional_data": "credits"
-        },
-        {
-            "start_date": "2022-11-25 00:00:00",
-            "expiration_date": "",
-            "is_active": false,
-            "title": "More Activity, More Credits",
-            "message": "App purchased credits are permanent. App usage credits decrease over time while not using the app. More activity, more credits!",
-            "priority": 4,
-            "user_levels": [
-                "developer",
-                "premium",
-                "free"
-            ],
-            "application": [
-                "congress_watcher"
-            ],
-            "market": [
-                "world"
-            ],
-            "locality": [
-                "world"
-            ],
-            "url": "",
-            "icon": "coins",
-            "support_option": false,
-            "loading_screen": true,
-            "local_notification": false,
-            "is_alert": false,
-            "is_popup": false,
-            "additional_data": "credits"
-        },
-        {
-            "start_date": "2022-10-14 00:00:00",
-            "expiration_date": "",
-            "is_active": false,
-            "title": "Redeem Credits for Cool Merch",
-            "message": "Trade in your credits and shop for cool products in the merch shop.",
-            "priority": 4,
-            "user_levels": [
-                "developer",
-                "premium",
-                "free"
-            ],
-            "application": [
-                "congress_watcher"
-            ],
-            "market": [
-                "usa"
-            ],
-            "locality": [
-                "world"
-            ],
-            "url": "",
-            "icon": "store",
-            "support_option": false,
-            "loading_screen": true,
-            "local_notification": false,
-            "is_alert": false,
-            "is_popup": false,
-            "additional_data": "shop"
-        },
-        {
-            "start_date": "2022-10-14 00:00:00",
-            "expiration_date": "",
-            "is_active": false,
             "title": "Enjoying The App?",
             "message": "Let us know how we're doing, and if there is something we can improve on. Tap here to give us a rating!",
             "priority": 4,
@@ -312,35 +225,6 @@
             "is_alert": false,
             "is_popup": false,
             "additional_data": "rating"
-        },
-        {
-            "start_date": "2022-10-14 00:00:00",
-            "expiration_date": "2022-10-19 00:00:00",
-            "is_active": false,
-            "title": "Ready For Premium Status?",
-            "message": "Our Free Premium Days promotion runs the first week of every month where you can try out all app features!",
-            "priority": 5,
-            "user_levels": [
-                "developer",
-                "free"
-            ],
-            "application": [
-                "congress_watcher"
-            ],
-            "market": [
-                "world"
-            ],
-            "locality": [
-                "world"
-            ],
-            "url": "",
-            "icon": "workspace-premium",
-            "support_option": false,
-            "loading_screen": true,
-            "local_notification": true,
-            "is_alert": false,
-            "is_popup": false,
-            "additional_data": "upgrade"
         },
         {
             "start_date": "2022-10-14 00:00:00",
@@ -375,7 +259,7 @@
         {
             "start_date": "2022-10-26 00:00:00",
             "expiration_date": "",
-            "is_active": false,
+            "is_active": true,
             "title": "Developer Support Options",
             "message": "Developer support options can be found on our humble website. Tap here to view!",
             "priority": 9,
@@ -398,7 +282,7 @@
             "url": "https://mettacode.dev",
             "icon": "volunteer-activism",
             "support_option": true,
-            "loading_screen": true,
+            "loading_screen": false,
             "local_notification": false,
             "is_alert": false,
             "is_popup": false,
