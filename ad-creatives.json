@@ -46,6 +46,40 @@
         {
             "client_name": "scapegoats",
             "client_id": "240205",
+            "client_description": "SCAPEGOATS",
+            "client_internal_notes": "",
+            "start_date": "2023-03-16 00:00:00",
+            "expiration_date": null,
+            "is_active": true,
+            "title": "SCAPEGOATS 1st Order Coupon Banner",
+            "alt_text": "10% OFF",
+            "frequency_priority": 0,
+            "duration_in_days": null,
+            "applications": [
+                "scapegoats_website",
+                "scapegoats_usa",
+                "scapegoats_music"
+            ],
+            "markets": [
+                "mobile",
+                "desktop",
+                "web"
+            ],
+            "locality": [
+                "world",
+                "country",
+                "region",
+                "state",
+                "city"
+            ],
+            "creative_url": "https://www.dropbox.com/scl/fi/rzbofnsbfmjk1j9brpszz/Adobe_Express_20240324_2315070_1.png?rlkey=h180m2r7uc55k15zkrnytwlwr&raw=1",
+            "creative_height": 480,
+            "creative_width": 1920,
+            "link_url": "https://apparel.scapegoatsusa.com"
+        },
+        {
+            "client_name": "scapegoats",
+            "client_id": "240205",
             "client_description": "SCAPEGOATS Apparel Website",
             "client_internal_notes": "",
             "start_date": "2023-03-16 00:00:00",
