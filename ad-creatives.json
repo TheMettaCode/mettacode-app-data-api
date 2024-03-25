@@ -12,7 +12,7 @@
             "is_active": true,
             "title": "MettaCode Brand Banner",
             "alt_text": "MettaCode Developers",
-            "frequency_priority": 0,
+            "frequency_priority": 2,
             "duration_in_days": null,
             "applications": [
                 "congress_watcher",
@@ -87,7 +87,7 @@
             "is_active": true,
             "title": "SCAPEGOATS Apparel Caps Banner",
             "alt_text": "SCAPEGOATS Apparel",
-            "frequency_priority": 0,
+            "frequency_priority": 1,
             "duration_in_days": null,
             "applications": [
                 "congress_watcher",
