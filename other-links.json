@@ -1,6 +1,42 @@
 {
     "links": [
         {
+            "name_tag": "mettacode_website",
+            "priority": 0,
+            "is_app": false,
+            "active": true,
+            "title": "MettaCode Developers",
+            "description": "MettaCode Developers is a small group of self-taught developers that are learning various coding disciplines in thier free time as hobbyists.\n\nFeel free to reach out  with questions or for more information.",
+            "user_levels": [],
+            "market": [
+                "web"
+            ],
+            "locality": [
+                "usa",
+                "world"
+            ],
+            "privacy_policy": "https://www.privacypolicies.com/live/0d8fb5d7-c9f5-474a-8286-d96399798e94",
+            "mobile_advertising_policy": "",
+            "web_advertising_policy": "",
+            "google_play_url": "",
+            "amazon_url": "",
+            "website_url": "https://mettacode.dev/",
+            "apk_url": "",
+            "avatar_url": "",
+            "icon": "",
+            "additional_data": "",
+            "in_development": false,
+            "app_color": "0xFF5E4800",
+            "socials": {
+                "twitter": "https://www.x.com/mettacodedev",
+                "instagram": "",
+                "youtube": "",
+                "facebook": "",
+                "tiktok": "",
+                "rumble": ""
+            }
+        },
+        {
             "name_tag": "congress_watcher",
             "priority": 0,
             "is_app": true,
