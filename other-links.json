@@ -37,6 +37,42 @@
             }
         },
         {
+            "name_tag": "scapegoats_website",
+            "priority": 0,
+            "is_app": false,
+            "active": true,
+            "title": "SCAPEGOATS™ USA Website",
+            "description": "Home of SCAPEGOATS™ Music and SCAPEGOATS™ Apparel.",
+            "user_levels": [],
+            "market": [
+                "web"
+            ],
+            "locality": [
+                "usa",
+                "world"
+            ],
+            "privacy_policy": "https://www.privacypolicies.com/live/cec94a12-b56b-4e3a-9cba-965076ff5877",
+            "mobile_advertising_policy": "",
+            "web_advertising_policy": "",
+            "google_play_url": "",
+            "amazon_url": "",
+            "website_url": "https://scapegoatsusa.com/",
+            "apk_url": "",
+            "avatar_url": "",
+            "icon": "",
+            "additional_data": "",
+            "in_development": false,
+            "app_color": "0xFF000000",
+            "socials": {
+                "twitter": "https://www.x.com/scapegoatsusa",
+                "instagram": "scapegoatsusa",
+                "youtube": "",
+                "facebook": "",
+                "tiktok": "",
+                "rumble": ""
+            }
+        },
+        {
             "name_tag": "congress_watcher",
             "priority": 0,
             "is_app": true,
