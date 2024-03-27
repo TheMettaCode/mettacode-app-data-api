@@ -38,10 +38,125 @@
                 "state",
                 "city"
             ],
-            "creative_url": "https://www.dropbox.com/scl/fi/wbcgnwpjompxer938b3ex/mettacode_brand_banner_250x62.png?rlkey=2cp7mgm0np33tabs7z4pioifv&raw=1",
             "link_url": "https://mettacode.dev",
+            "creative_url": "https://www.dropbox.com/scl/fi/wbcgnwpjompxer938b3ex/mettacode_brand_banner_250x62.png?rlkey=2cp7mgm0np33tabs7z4pioifv&raw=1",
             "creative_height": 62,
             "creative_width": 250
+        },
+        {
+            "client_name": "scapegoats",
+            "client_id": "240205",
+            "client_description": "SCAPEGOATS",
+            "client_internal_notes": "",
+            "start_date": "2023-03-16 00:00:00",
+            "expiration_date": null,
+            "is_active": true,
+            "title": "SCAPEGOATS 1st Order Coupon Banner",
+            "alt_text": "10% OFF",
+            "frequency_priority": 0,
+            "duration_in_days": null,
+            "applications": [
+                "scapegoats_website",
+                "scapegoats_usa",
+                "scapegoats_apparel",
+                "scapegoats_music"
+            ],
+            "markets": [
+                "mobile",
+                "desktop",
+                "web"
+            ],
+            "locality": [
+                "world",
+                "country",
+                "region",
+                "state",
+                "city"
+            ],
+            "link_url": "https://apparel.scapegoatsusa.com",
+            "creative_url": "https://www.dropbox.com/scl/fi/rzbofnsbfmjk1j9brpszz/Adobe_Express_20240324_2315070_1.png?rlkey=h180m2r7uc55k15zkrnytwlwr&raw=1",
+            "creative_height": 480,
+            "creative_width": 1920
+        },
+        {
+            "client_name": "scapegoats",
+            "client_id": "240205",
+            "client_description": "SCAPEGOATS Apparel Website",
+            "client_internal_notes": "",
+            "start_date": "2023-03-16 00:00:00",
+            "expiration_date": null,
+            "is_active": true,
+            "title": "SCAPEGOATS Apparel Caps Banner",
+            "alt_text": "SCAPEGOATS Apparel",
+            "frequency_priority": 1,
+            "duration_in_days": null,
+            "applications": [
+                "congress_watcher",
+                "wanted",
+                "grownhop",
+                "scapegoats_website",
+                "mettacode_website",
+                "scapegoats_usa",
+                "scapegoats_music",
+                "bountyful_world",
+                "blakloops"
+            ],
+            "markets": [
+                "mobile",
+                "desktop",
+                "web"
+            ],
+            "locality": [
+                "world",
+                "country",
+                "region",
+                "state",
+                "city"
+            ],
+            "link_url": "https://apparel.scapegoatsusa.com",
+            "creative_url": "https://www.dropbox.com/scl/fi/y3kghgjy8rsrlativ5nj4/sga_caps_20240205_125741814.png?rlkey=0eglgim21765jnz9j8rikndsd&raw=1",
+            "creative_height": 368,
+            "creative_width": 1920
+        },
+        {
+            "client_name": "scapegoats",
+            "client_id": "240205",
+            "client_description": "SCAPEGOATS Music Website",
+            "client_internal_notes": "",
+            "start_date": "2023-03-16 00:00:00",
+            "expiration_date": null,
+            "is_active": true,
+            "title": "SCAPEGOATS Music Info Banner",
+            "alt_text": "SCAPEGOATS Music",
+            "frequency_priority": 0,
+            "duration_in_days": null,
+            "applications": [
+                "congress_watcher",
+                "wanted",
+                "grownhop",
+                "scapegoats_website",
+                "mettacode_website",
+                "scapegoats_usa",
+                "scapegoats_apparel",
+                "bountyful_world",
+                "blakloops"
+            ],
+            "markets": [
+                "mobile",
+                "desktop",
+                "web"
+            ],
+            "locality": [
+                "world",
+                "country",
+                "region",
+                "state",
+                "city"
+            ],
+            "link_url": "https://music.scapegoatsusa.com",
+            "creative_url": "https://www.dropbox.com/scl/fi/83vsjfkqy59k576k1i6xf/sgm_info_banner_ad_526x88.png?rlkey=mbypt62z7yo69g0f28edv4owf&raw=1",
+            "creative_height": 88,
+            "creative_width": 526
         }
     ]
 }
