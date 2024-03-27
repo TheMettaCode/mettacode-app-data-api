@@ -4,7 +4,7 @@
     "alerts": [
         {
             "start_date": "2023-03-16 00:00:00",
-            "expiration_date": "2023-03-16 05:00:00",
+            "expiration_date": "2024-03-30 05:00:00",
             "is_active": true,
             "title": "Dummy Notification",
             "message": "This is a dummy notification for developer test purposes",
