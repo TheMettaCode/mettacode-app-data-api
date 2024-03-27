@@ -1,11 +1,11 @@
 {
     "name": "mettacode_notifications",
     "status": "OK",
-    "notifications": [
+    "alerts": [
         {
             "start_date": "2023-03-16 00:00:00",
             "expiration_date": "2023-03-16 05:00:00",
-            "is_active": false,
+            "is_active": true,
             "title": "Dummy Notification",
             "message": "This is a dummy notification for developer test purposes",
             "priority": 0,
@@ -39,7 +39,7 @@
             "support_option": false,
             "loading_screen": false,
             "local_notification": false,
-            "is_alert": false,
+            "is_alert": true,
             "is_popup": false,
             "additional_data": ""
         },
