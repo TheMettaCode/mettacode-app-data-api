@@ -153,7 +153,7 @@
             "creative_url": "https://www.dropbox.com/scl/fi/83vsjfkqy59k576k1i6xf/sgm_info_banner_ad_526x88.png?rlkey=mbypt62z7yo69g0f28edv4owf&raw=1",
             "creative_height": 88,
             "creative_width": 526
-        },        
+        },
         {
             "client_name": "mettacode",
             "client_id": "240127",
@@ -192,6 +192,6 @@
             "creative_url": "https://www.dropbox.com/scl/fi/n1v2knnkfrmilj01owu4y/bounty_banner_20240331_1935360_1.png?rlkey=jt0fvxdcqvr65g4kw57iletjt&raw=1",
             "creative_height": 893,
             "creative_width": 2559
-        },
+        }
     ]
 }
