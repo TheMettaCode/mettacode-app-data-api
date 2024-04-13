@@ -111,7 +111,7 @@
             "name_tag": "wanted",
             "priority": 5,
             "is_app": true,
-            "active": true,
+            "active": false,
             "title": "Wanted!",
             "description": "The Wanted! App provides up to date details on fugitives wanted by the FBI. Download the Wanted! app and find out who is on the run along with how much reward money the FBI is offering for information leading to an arrest!",
             "user_levels": [],
